@@ -2,11 +2,17 @@ Title: Bus CIT Vallée du Richelieu (MonTransit)
 ----------
 Short description: Informations des bus CIT Vallée du Richelieu pour MonTransit BETA.
 ----------
+What's new in this version?:
+BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
+
+Horaires du 25 Août 2014 au 23 Août 2020.
+----------
 Full description:
-BETA : TEST EN COURS
-Pour quitter le test : http://goo.gl/Zxy7Dm
+BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
 
 Cette application ajoute les informations des bus CIT Vallée du Richelieu à MonTransit BETA.
+
+Le CIT Vallée du Richelieu dessert Belœil, McMasterville, Mont-Saint-Hilaire, Otterburn Park, Saint-Basile-le-Grand, Saint-Hyacinthe, Sainte-Madeleine et Sainte-Marie-Madeleine.
 
 Une fois cette application installée, l'application MonTransit BETA affichera les informations du bus (horaires ...).
 
