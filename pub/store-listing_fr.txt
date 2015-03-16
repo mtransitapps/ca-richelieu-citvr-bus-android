@@ -5,7 +5,7 @@ Bus CIT Vallée du Richelieu pour MonTransit BETA
 Horaires. Tweets @citvrichelieu
 ----------
 What's new in this version?:
-Horaires du 25 Août 2014 au 23 Août 2020.
+Horaires du 25 Août 2014 au 5 Avril 2015.
 Tweets de @citvrichelieu.
 
 BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
