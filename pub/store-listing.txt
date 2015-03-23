@@ -2,10 +2,11 @@ Title: CIT Vallée Richelieu Bus - Mo…
 ----------
 Short description:
 CIT Vallée du Richelieu bus for MonTransit BETA
-Schedules. Tweets @citvrichelieu
+Schedules. News.
 ----------
 What's new in this version?:
 Schedule from August 25, 2014 to April 5, 2015
+News from www.citvr.ca.
 Tweets from @citvrichelieu.
 
 BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
@@ -13,7 +14,7 @@ BETA: Thanks for your patience while the last features are being added and the l
 Full description:
 This application adds CIT Vallée du Richelieu buses information to MonTransit BETA.
 
-This app contains the buses schedule and the latest news from @citvrichelieu on Twitter.
+This app contains the buses schedule and the latest news from www.citvr.ca and @citvrichelieu on Twitter.
 
 BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 
@@ -34,7 +35,7 @@ https://github.com/mtransitapps/ca-richelieu-citvr-bus-android
 This app is not related with the Agence Métropolitaine de Transport and CIT Vallée du Richelieu.
 
 Permissions:
-- Other: required to read news (Twitter)
+- Other: required to read news from www.citvr.ca and Twitter.
 ----------
 Application type: Applications
 ----------
