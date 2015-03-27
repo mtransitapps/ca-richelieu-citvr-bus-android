@@ -14,7 +14,7 @@ BETA : Merci de votre patience pendant que les dernières fonctionnalités sont 
 Full description:
 Cette application ajoute les informations des autobus du CIT Vallée du Richelieu à MonTransit BETA.
 
-Cette application contient les horaires et les dernières nouvelles de www.citvr.ca et @citvrichelieu sur Twitter.
+Cette application contient les horaires et les dernières nouvelles de www.citvr.ca, YouTube et @citvrichelieu sur Twitter.
 
 BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
 
@@ -35,4 +35,4 @@ https://github.com/mtransitapps/ca-richelieu-citvr-bus-android
 Cette application n'est pas associée à l'Agence Métropolitaine de Transport et CIT Vallée du Richelieu.
 
 Autorisations :
-- Autres: requis pour lire les nouvelles de www.citvr.ca et Twitter.
+- Autres: requis pour lire les nouvelles de www.citvr.ca, YouTube et Twitter.
