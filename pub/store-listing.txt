@@ -1,28 +1,24 @@
 Title: CIT Vallée Richelieu Bus - Mo…
 ----------
 Short description:
-CIT Vallée du Richelieu bus for MonTransit BETA
+CIT Vallée du Richelieu buses for MonTransit.
 Schedules. News.
 ----------
 What's new in this version?:
 Schedule from August 25, 2014 to April 5, 2015
 News from www.citvr.ca.
 Tweets from @citvrichelieu.
-
-BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 ----------
 Full description:
-This application adds CIT Vallée du Richelieu buses information to MonTransit BETA.
+This application adds CIT Vallée du Richelieu buses information to MonTransit.
 
 This app contains the buses schedule and the latest news from www.citvr.ca, YouTube and @citvrichelieu on Twitter.
 
-BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
-
 CIT Vallée du Richelieu serves Belœil, McMasterville, Mont-Saint-Hilaire, Otterburn Park, Saint-Basile-le-Grand, Saint-Hyacinthe, Sainte-Madeleine and Sainte-Marie-Madeleine.
 
-Once this application is installed, the MonTransit BETA app will display buses information (schedule...).
+Once this application is installed, the MonTransit app will display buses information (schedule...).
 
-This application only has a temporary icon and no screen: download the MonTransit BETA app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
+This application only has a temporary icon and no screen: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
 
 You can install this application on the SD card but it is not recommended.
 
