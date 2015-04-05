@@ -1,29 +1,7 @@
 700,0,'Beloeil Service Local',7
 701,0,'Beloeil Service Local 2',7
-801,0,'Beloeil',8
-800,0,'Industrie',8
-1100,0,'Secteur De La Pommeraie',11
-1101,0,'Village De La Gare',11
 1200,0,'Otterburn Park',12
-2000,0,'Beloeil',20
-2001,0,'McMasterville',20
-2100,0,'Gare St-Hilaire',21
-2101,0,'Pommeraie',21
-2200,0,'Gare St-Hilaire',22
-2201,0,'Village',22
-2301,0,'Gare McMasterville',23
-2300,0,'Otterburn Park',23
-2400,0,'Chemin Des Vingt',24
-2401,0,'Gare St-Basile-Le-Grand',24
-2500,0,'Mont-St-Hilaire',25
-2501,0,'St-Hyacinthe',25
-2600,0,'Champagne / Trinitaires',26
-2601,0,'Gare St-Basile-Le-Grand',26
-2700,0,'Beloeil',27
-2701,0,'McMasterville',27
-3000,0,'St-Hyacinthe',30
-3001,0,'Ste-Julie',30
+7001,0,'Express Fin De Semaine',70
+7101,0,'Commercial Nord - Les Salines',71
 20001,0,'Longueuil',200
-20000,0,'Mont-St-Hilaire / St-Hyacinthe',200
-30000,0,'Mont-St-Hilaire / St-Hyacinthe',300
-30001,0,'Montréal',300
+20000,0,'St-Hyacinthe',200
