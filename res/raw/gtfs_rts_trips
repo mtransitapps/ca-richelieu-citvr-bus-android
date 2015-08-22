@@ -2,7 +2,7 @@
 701,0,'Beloeil Service Local 2',7
 801,0,'Beloeil',8
 800,0,'Industrie',8
-1100,0,'Secteur De La Pommeraie',11
+1100,0,'Sect. De La Pommeraie',11
 1101,0,'Village De La Gare',11
 1200,0,'Otterburn Park',12
 2000,0,'Beloeil',20
@@ -33,7 +33,7 @@
 5700,0,'Sacré-Coeur',57
 6001,0,'Express Galeries - Cégep',60
 6100,0,'Parc Les Salines',61
-6201,0,'Galeries / Parc Industriel',62
+6201,0,'Galeries / Parc Ind.',62
 7001,0,'Express Fin De Semaine',70
 7101,0,'Commercial Nord - Les Salines',71
 20001,0,'Longueuil',200
