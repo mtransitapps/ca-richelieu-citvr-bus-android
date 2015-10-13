@@ -1,5 +1,5 @@
-700,0,'Beloeil Service Local',7
-701,0,'Beloeil Service Local 2',7
+700,0,'Beloeil 1',7
+701,0,'Beloeil 2',7
 801,0,'Beloeil',8
 800,0,'Industrie',8
 1100,0,'Sect. De La Pommeraie',11
@@ -23,19 +23,32 @@
 2701,0,'McMasterville',27
 3000,0,'St-Hyacinthe',30
 3001,0,'Ste-Julie',30
-5001,0,'Express Centre-Ville - Galeries',50
-5100,0,'St-Joseph',51
-5201,0,'Douville',52
-5300,0,'Assomption / Ste-Rosalie',53
-5401,0,'St-Sacrement O',54
-5501,0,'St-Thomas',55
-5601,0,'Providence',56
-5700,0,'Sacré-Coeur',57
-6001,0,'Express Galeries - Cégep',60
-6100,0,'Parc Les Salines',61
-6201,0,'Galeries / Parc Ind.',62
-7001,0,'Express Fin De Semaine',70
-7101,0,'Commercial Nord - Les Salines',71
+5004,0,'Centre-Ville',50
+5003,0,'Galeries',50
+5103,0,'Centre-Ville',51
+5104,0,'St-Joseph',51
+5201,0,'Centre-Ville',52
+5202,0,'Douville',52
+5302,0,'Centre-Ville',53
+5301,0,'Ste-Rosalie',53
+5404,0,'Centre-Ville',54
+5403,0,'Galeries',54
+5504,0,'Galeries',55
+5503,0,'St-Thomas',55
+5601,0,'Centre-Ville',56
+5602,0,'La Providence',56
+5704,0,'Centre-Ville',57
+5703,0,'Galeries',57
+6004,0,'Cégep',60
+6003,0,'Galeries',60
+6104,0,'Galeries',61
+6103,0,'Les Salines',61
+6201,0,'Galeries',62
+6202,0,'Parc Ind.',62
+7004,0,'Centre-Ville',70
+7003,0,'Galeries',70
+7104,0,'Galeries',71
+7103,0,'Les Salines',71
 20001,0,'Longueuil',200
 20000,0,'Mont-St-Hilaire / St-Hyacinthe',200
 30000,0,'Mont-St-Hilaire / St-Hyacinthe',300
