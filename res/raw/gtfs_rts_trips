@@ -2,7 +2,7 @@
 701,0,'Beloeil 2',7
 801,0,'Beloeil',8
 800,0,'Industrie',8
-1100,0,'Sect. De La Pommeraie',11
+1100,0,'Sect De La Pommeraie',11
 1101,0,'Village De La Gare',11
 1200,0,'Otterburn Park',12
 2000,0,'Beloeil',20
@@ -50,6 +50,6 @@
 7104,0,'Galeries',71
 7103,0,'Les Salines',71
 20001,0,'Longueuil',200
-20000,0,'Mont-St-Hilaire / St-Hyacinthe',200
-30000,0,'Mont-St-Hilaire / St-Hyacinthe',300
+20000,0,'St-Hyacinthe',200
 30001,0,'Montréal',300
+30000,0,'St-Hyacinthe',300
