@@ -1,7 +1,3 @@
-700,0,'Beloeil 1',7
-701,0,'Beloeil 2',7
-801,0,'Beloeil',8
-800,0,'Industrie',8
 1100,0,'Sect De La Pommeraie',11
 1101,0,'Village De La Gare',11
 1200,0,'Otterburn Park',12
@@ -21,6 +17,8 @@
 2601,0,'Gare St-Basile-Le-Grand',26
 2700,0,'Beloeil',27
 2701,0,'McMasterville',27
+3000,0,'St-Hyacinthe',30
+3001,0,'Ste-Julie',30
 5004,0,'Centre-Ville',50
 5003,0,'Galeries',50
 5103,0,'Centre-Ville',51
@@ -47,6 +45,16 @@
 7003,0,'Galeries',70
 7104,0,'Galeries',71
 7103,0,'Les Salines',71
+8001,0,'Beloeil',80
+8000,0,'Industrie',80
+8100,0,'CLSC',81
+8101,0,'Sect Prévert',81
+8200,0,'Beloeil',82
+8300,0,'Beloeil',83
+8400,0,'Beloeil',84
+8500,0,'Beloeil',85
+13000,0,'McMasterville - Ste-Julie',130
+13001,0,'Ste-Julie - McMasterville',130
 20001,0,'Longueuil',200
 20000,0,'St-Hyacinthe',200
 30001,0,'Montréal',300
