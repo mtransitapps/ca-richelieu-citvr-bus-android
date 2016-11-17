@@ -5,7 +5,7 @@ Autobus CIT Vallée du Richelieu pour MonTransit.
 Horaires. Nouvelles.
 ----------
 What's new in this version?:
-Horaires du 7 novembre 2016 au 23 août 2020.
+Horaires du 14 novembre 2016 au 23 août 2020.
 Nouvelles de www.citvr.ca.
 Tweets de @citvrichelieu.
 ----------
