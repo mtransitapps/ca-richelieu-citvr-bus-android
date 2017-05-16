@@ -5,7 +5,7 @@ CIT Vallée du Richelieu buses for MonTransit.
 Schedules. News.
 ----------
 What's new in this version?:
-Schedule from January 15, 2017 to August 23, 2020.
+Schedule from January 15, 2017 to May 28, 2017.
 News from www.citvr.ca.
 Tweets from @citvrichelieu.
 ----------
