@@ -1,7 +1,7 @@
-Title: Bus CIT Vallée Richelieu - Mo…
+Title: Bus RTM (CIT) Vallée Richelieu - MonTransit
 ----------
 Short description:
-Autobus CIT Vallée du Richelieu pour MonTransit.
+Autobus RTM (CIT) Vallée du Richelieu pour MonTransit.
 Horaires. Nouvelles.
 ----------
 What's new in this version?:
@@ -10,11 +10,11 @@ Nouvelles de www.citvr.ca.
 Tweets de @citvrichelieu.
 ----------
 Full description:
-Cette application ajoute les informations des autobus du CIT Vallée du Richelieu à MonTransit.
+Cette application ajoute les informations des autobus du RTM (CIT) Vallée du Richelieu à MonTransit.
 
 Cette application contient les horaires et les dernières nouvelles de www.citvr.ca, YouTube et @citvrichelieu sur Twitter.
 
-Le CIT Vallée du Richelieu dessert Belœil, McMasterville, Mont-Saint-Hilaire, Otterburn Park, Saint-Basile-le-Grand, Saint-Hyacinthe, Sainte-Madeleine et Sainte-Marie-Madeleine.
+Le RTM (CIT) Vallée du Richelieu dessert Belœil, McMasterville, Mont-Saint-Hilaire, Otterburn Park, Saint-Basile-le-Grand, Saint-Hyacinthe, Sainte-Madeleine et Sainte-Marie-Madeleine.
 
 Une fois cette application installée, l'application MonTransit affichera les informations des autobus (horaires ...).
 
@@ -22,13 +22,13 @@ Cette application a seulement une icône temporaire et pas d'écran : téléchar
 
 Vous pouvez installer cette application sur la carte SD mais ce n'est pas recommandé.
 
-Ces horaires sont générées à partir du fichier GTFS fourni par l'Agence Métropolitaine de Transport.
-https://www.amt.qc.ca/fr/a-propos/donnees-ouvertes
+Ces horaires sont générées à partir du fichier GTFS fourni par le Réseau de transport métropolitain (AMT).
+https://rtm.quebec/fr/a-propos/donnees-ouvertes
 
 Cette application est gratuite et open-source : 
 https://github.com/mtransitapps/ca-richelieu-citvr-bus-android
 
-Cette application n'est pas associée à l'Agence Métropolitaine de Transport et CIT Vallée du Richelieu.
+Cette application n'est pas associée à le Réseau de transport métropolitain (AMT) et RTM (CIT) Vallée du Richelieu.
 
 Autorisations :
 - Autres: requis pour lire les nouvelles de www.citvr.ca, YouTube et Twitter.
