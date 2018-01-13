@@ -1,8 +1,8 @@
 1100,0,'Sect De La Pommeraie',11
 1101,0,'Village De La Gare',11
 1200,0,'Otterburn Park',12
-2000,0,'Beloeil',20
-2001,0,'McMasterville',20
+2001,0,'Gare McMasterville',20
+2000,0,'McMasterville',20
 2100,0,'Gare St-Hilaire',21
 2101,0,'Pommeraie',21
 2200,0,'Gare St-Hilaire',22
@@ -17,6 +17,10 @@
 2601,0,'Gare St-Basile-Le-Grand',26
 2700,0,'Beloeil',27
 2701,0,'McMasterville',27
+2800,0,'Beloeil',28
+2801,0,'Gare McMasterville',28
+3000,0,'St-Hyacinthe',30
+3001,0,'Ste-Julie',30
 5004,0,'Centre-Ville',50
 5003,0,'Galeries',50
 5103,0,'Centre-Ville',51
