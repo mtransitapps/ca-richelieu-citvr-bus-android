@@ -6,13 +6,13 @@ Horaires. Nouvelles.
 ----------
 What's new in this version?:
 Horaires du 15 janvier 2018 au 14 janvier 2020.
-Nouvelles de www.citvr.ca.
+Nouvelles de rtm.quebec.
 Tweets de @citvrichelieu.
 ----------
 Full description:
 Cette application ajoute les informations des autobus du RTM (CIT) Vallée du Richelieu à MonTransit.
 
-Cette application contient les horaires et les dernières nouvelles de www.citvr.ca, YouTube et @citvrichelieu sur Twitter.
+Cette application contient les horaires et les dernières nouvelles de rtm.quebec, YouTube et @citvrichelieu sur Twitter.
 
 Le RTM (CIT) Vallée du Richelieu dessert Belœil, McMasterville, Mont-Saint-Hilaire, Otterburn Park, Saint-Basile-le-Grand, Saint-Hyacinthe, Sainte-Madeleine et Sainte-Marie-Madeleine.
 
@@ -31,4 +31,4 @@ https://github.com/mtransitapps/ca-richelieu-citvr-bus-android
 Cette application n'est pas associée à le Réseau de transport métropolitain (AMT) et RTM (CIT) Vallée du Richelieu.
 
 Autorisations :
-- Autres: requis pour lire les nouvelles de www.citvr.ca, YouTube et Twitter.
+- Autres: requis pour lire les nouvelles de rtm.quebec, YouTube et Twitter.

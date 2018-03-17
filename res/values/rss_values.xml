@@ -7,22 +7,22 @@
     <bool name="rss_copy_to_file_instead_of_streaming">false</bool>
     <string name="rss_encoding">UTF-8</string>
     <string-array name="rss_feeds">
-        <item>http://www.citvr.ca/feed/</item>
+        <item>https://rtm.quebec/rss?projection=1568</item>
     </string-array>
     <string-array name="rss_feeds_author_name">
-        <item>@string/gtfs_rts_short_name</item>
+        <item>RTM (Avis à la clientèle)</item>
     </string-array>
     <string-array name="rss_feeds_author_url">
-        <item>http://www.citvr.ca/actualites/</item>
+        <item>https://rtm.quebec/fr/service-clientele/avis</item>
     </string-array>
     <string-array name="rss_feeds_label">
-        <item>www.citvr.ca</item>
+        <item>rtm.quebec</item>
     </string-array>
     <string-array name="rss_feeds_lang">
         <item>@string/news_provider_language_unknown_show_all</item>
     </string-array>
     <string-array name="rss_feeds_colors">
-        <item>@string/rss_color</item>
+        <item>20558A</item> <!-- RTM color -->
     </string-array>
     <string-array name="rss_feeds_target">
         <item>@string/rss_target_for_poi_authority</item>
