@@ -5,14 +5,14 @@ RTM (CIT) Vallée du Richelieu buses for MonTransit.
 Schedules. News.
 ----------
 What's new in this version?:
-Schedule from January 15, 2018 to January 14, 2020.
+Schedule from June 4, 2018 to August 10, 2018.
 News from rtm.quebec.
-Tweets from @citvrichelieu.
+Tweets from @exo_VRichelieu.
 ----------
 Full description:
 This application adds RTM (CIT) Vallée du Richelieu buses information to MonTransit.
 
-This app contains the buses schedule and the latest news from rtm.quebec, YouTube and @citvrichelieu on Twitter.
+This app contains the buses schedule and the latest news from rtm.quebec, YouTube and @exo_VRichelieu on Twitter.
 
 RTM (CIT) Vallée du Richelieu serves Belœil, McMasterville, Mont-Saint-Hilaire, Otterburn Park, Saint-Basile-le-Grand, Saint-Hyacinthe, Sainte-Madeleine and Sainte-Marie-Madeleine.
 

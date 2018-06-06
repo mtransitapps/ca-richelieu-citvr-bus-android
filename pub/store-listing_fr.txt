@@ -5,14 +5,14 @@ Autobus RTM (CIT) Vallée du Richelieu pour MonTransit.
 Horaires. Nouvelles.
 ----------
 What's new in this version?:
-Horaires du 15 janvier 2018 au 14 janvier 2020.
+Horaires du 4 juin 2018 au 10 août 2018.
 Nouvelles de rtm.quebec.
-Tweets de @citvrichelieu.
+Tweets de @exo_VRichelieu.
 ----------
 Full description:
 Cette application ajoute les informations des autobus du RTM (CIT) Vallée du Richelieu à MonTransit.
 
-Cette application contient les horaires et les dernières nouvelles de rtm.quebec, YouTube et @citvrichelieu sur Twitter.
+Cette application contient les horaires et les dernières nouvelles de rtm.quebec, YouTube et @exo_VRichelieu sur Twitter.
 
 Le RTM (CIT) Vallée du Richelieu dessert Belœil, McMasterville, Mont-Saint-Hilaire, Otterburn Park, Saint-Basile-le-Grand, Saint-Hyacinthe, Sainte-Madeleine et Sainte-Marie-Madeleine.
 
