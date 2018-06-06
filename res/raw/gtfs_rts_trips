@@ -1,8 +1,6 @@
 1100,0,'Sect De La Pommeraie',11
 1101,0,'Village De La Gare',11
 1200,0,'Otterburn Park',12
-2001,0,'Gare McMasterville',20
-2000,0,'McMasterville',20
 2100,0,'Gare St-Hilaire',21
 2101,0,'Pommeraie',21
 2200,0,'Gare St-Hilaire',22
@@ -17,10 +15,6 @@
 2601,0,'Gare St-Basile-Le-Grand',26
 2700,0,'Beloeil',27
 2701,0,'McMasterville',27
-2800,0,'Beloeil',28
-2801,0,'Gare McMasterville',28
-3000,0,'St-Hyacinthe',30
-3001,0,'Ste-Julie',30
 5004,0,'Centre-Ville',50
 5003,0,'Galeries',50
 5103,0,'Centre-Ville',51
@@ -39,27 +33,29 @@
 5703,0,'Galeries',57
 6004,0,'Cégep',60
 6003,0,'Galeries',60
-6104,0,'Galeries',61
-6103,0,'Les Salines',61
-6201,0,'Galeries',62
-6202,0,'Parc Ind.',62
 7004,0,'Centre-Ville',70
 7003,0,'Galeries',70
 7104,0,'Galeries',71
 7103,0,'Les Salines',71
-8001,0,'Beloeil',80
-8000,0,'Industrie',80
-8100,0,'CLSC',81
-8101,0,'Sect Prévert',81
 8200,0,'Beloeil',82
 8300,0,'Beloeil',83
 8400,0,'Beloeil',84
 8500,0,'Beloeil',85
-13000,0,'McMasterville - Ste-Julie',130
-13001,0,'Ste-Julie - McMasterville',130
 20001,0,'Longueuil',200
 20000,0,'St-Hyacinthe',200
 20101,0,'Longueuil',201
 20100,0,'Mont-St-Hilaire',201
 30001,0,'Montréal',300
 30000,0,'St-Hyacinthe',300
+202000,0,'Beloeil',2020
+202001,0,'Gare McMasterville',2020
+1302001,0,'Gare McMasterville',13020
+1302000,0,'McMasterville',13020
+2003000,0,'McMasterville - Ste-Julie',20030
+2003001,0,'Ste-Julie - McMasterville',20030
+2006100,0,'Parc Les Salines',20061
+2006201,0,'Galeries / Parc Ind',20062
+2008001,0,'Beloeil',20080
+2008000,0,'Industrie',20080
+2008100,0,'CLSC',20081
+2008101,0,'Sect Prévert',20081
