@@ -5,7 +5,7 @@ RTM (CIT) Vallée du Richelieu buses for MonTransit.
 Schedules. News.
 ----------
 What's new in this version?:
-Schedule from June 4, 2018 to August 10, 2018.
+Schedule from June 20, 2018 to August 11, 2018.
 News from rtm.quebec.
 Tweets from @exo_VRichelieu.
 ----------
