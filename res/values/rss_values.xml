@@ -10,7 +10,7 @@
         <item>https://rtm.quebec/rss?projection=1568</item>
     </string-array>
     <string-array name="rss_feeds_author_name">
-        <item>RTM (Avis à la clientèle)</item>
+        <item>exo (Avis à la clientèle)</item>
     </string-array>
     <string-array name="rss_feeds_author_url">
         <item>https://rtm.quebec/fr/service-clientele/avis</item>
@@ -22,7 +22,7 @@
         <item>@string/news_provider_language_unknown_show_all</item>
     </string-array>
     <string-array name="rss_feeds_colors">
-        <item>20558A</item> <!-- RTM color -->
+        <item>@string/rss_color</item>
     </string-array>
     <string-array name="rss_feeds_target">
         <item>@string/rss_target_for_poi_authority</item>
