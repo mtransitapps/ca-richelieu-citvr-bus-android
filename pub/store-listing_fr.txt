@@ -1,20 +1,21 @@
-Title: Bus RTM (CIT) Vallée Richelieu - MonTransit
+Title: Bus exo Vallée Richelieu - MonTransit
 ----------
 Short description:
-Autobus RTM (CIT) Vallée du Richelieu pour MonTransit.
+Autobus exo Vallée du Richelieu pour MonTransit.
 Horaires. Nouvelles.
 ----------
 What's new in this version?:
+(AMT/CIT => RTM => exo)
 Horaires du 20 juin 2018 au 11 août 2018.
 Nouvelles de rtm.quebec.
 Tweets de @exo_VRichelieu.
 ----------
 Full description:
-Cette application ajoute les informations des autobus du RTM (CIT) Vallée du Richelieu à MonTransit.
+Cette application ajoute les informations des autobus exo Vallée du Richelieu à MonTransit.
 
 Cette application contient les horaires et les dernières nouvelles de rtm.quebec, YouTube et @exo_VRichelieu sur Twitter.
 
-Le RTM (CIT) Vallée du Richelieu dessert Belœil, McMasterville, Mont-Saint-Hilaire, Otterburn Park, Saint-Basile-le-Grand, Saint-Hyacinthe, Sainte-Madeleine et Sainte-Marie-Madeleine.
+exo Vallée du Richelieu dessert Belœil, McMasterville, Mont-Saint-Hilaire, Otterburn Park, Saint-Basile-le-Grand, Saint-Hyacinthe, Sainte-Madeleine et Sainte-Marie-Madeleine au Québec, Canada.
 
 Une fois cette application installée, l'application MonTransit affichera les informations des autobus (horaires ...).
 
@@ -22,13 +23,16 @@ Cette application a seulement une icône temporaire et pas d'écran : téléchar
 
 Vous pouvez installer cette application sur la carte SD mais ce n'est pas recommandé.
 
-Ces horaires sont générées à partir du fichier GTFS fourni par le Réseau de transport métropolitain (AMT).
+Ces horaires sont générées à partir du fichier GTFS fourni par le Réseau de Transport Métropolitain (RTM).
 https://rtm.quebec/fr/a-propos/donnees-ouvertes
 
 Cette application est gratuite et open-source : 
 https://github.com/mtransitapps/ca-richelieu-citvr-bus-android
 
-Cette application n'est pas associée à le Réseau de transport métropolitain (AMT) et RTM (CIT) Vallée du Richelieu.
+Cette application n'est pas associée au Réseau de Transport Métropolitain (RTM), à l'Autorité Régionale de Transport Métropolitain (ARTM) ou exo Vallée du Richelieu.
+
+exo Vallée du Richelieu était précédemment connu sous le nom de RTM Secteur Vallée du Richelieu et CIT Vallée du Richelieu.
+exo était précédemment connu sou le nom de Réseau de Transport Métropolitain (RTM) et Agence Métropolitaine de Transport (AMT).
 
 Autorisations :
 - Autres: requis pour lire les nouvelles de rtm.quebec, YouTube et Twitter.
