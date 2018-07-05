@@ -1,4 +1,4 @@
-Title: exo Vallée Richelieu Bus - MonTransit
+Title: exo Vallée du Richelieu Bus - MonTransit
 ----------
 Short description:
 exo Vallée du Richelieu buses for MonTransit.
