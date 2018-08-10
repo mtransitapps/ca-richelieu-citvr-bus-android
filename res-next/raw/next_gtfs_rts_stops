@@ -1,0 +1,816 @@
+16000,'16000','Terminus Mansfield',45.498457,-73.564729
+71021,'71021','Bombardier / Nobel',45.581671,-73.312429
+71022,'71022','Bombardier / Marconi',45.579287,-73.311597
+71023,'71023','Bombardier / Darwin',45.577786,-73.30819
+71321,'71321','Terminus Ste-Julie',45.582239,-73.323893
+73001,'73001','Sir Wilfrid-Laurier / Millénaire',45.524677,-73.30216
+73002,'73002','Sir Wilfrid-Laurier / Millénaire',45.524986,-73.30233
+73003,'73003','Sir-Wilfrid-Laurier / Jean-Charles-Michaud',45.526661,-73.295331
+73004,'73004','Sir-Wilfrid-Laurier / Jean-Charles-Michaud',45.526893,-73.295996
+73006,'73006','Sir-Wilfrid-Laurier / Lafrance Ouest',45.527832,-73.292826
+73007,'73007','Sir-Wilfrid-Laurier / Mtée Robert',45.528564,-73.289245
+73008,'73008','Sir-Wilfrid-Laurier / Mtée Des Trinitaires',45.528709,-73.28979
+73009,'73009','Sir-Wilfrid-Laurier / Principale',45.530714,-73.281799
+73010,'73010','Sir-Wilfrid-Laurier / Principale',45.531111,-73.281812
+73011,'73011','Sir-Wilfrid-Laurier / Alvarès',45.533178,-73.27341
+73012,'73012','Sir-Wilfrid-Laurier / Alvarès',45.533526,-73.273702
+73014,'73014','Sir-Wilfrid-Laurier / Moulin',45.534419,-73.270859
+73015,'73015','Sir-Wilfrid-Laurier / Parent',45.534656,-73.268609
+73016,'73016','Sir-Wilfrid-Laurier / Parent',45.535096,-73.268584
+73017,'73017','Sir-Wilfrid-Laurier / Boucherville',45.520022,-73.317777
+73018,'73018','Sir-Wilfrid-Laurier / Boucherville',45.520242,-73.318031
+73019,'73019','Sir-Wilfrid-Laurier / Seigneurial Ouest',45.513439,-73.343175
+73020,'73020','Sir-Wilfrid-Laurier / Seigneurial Ouest',45.513762,-73.344212
+73021,'73021','Sir-Wilfrid-Laurier / Cèdres',45.514966,-73.330234
+73022,'73022','Sir-Wilfrid-Laurier / Cèdres',45.515167,-73.330555
+73023,'73023','Promenades St-Bruno / Cinéma',45.506255,-73.382291
+73024,'73024','Promenades St-Bruno / Future Shop',45.503044,-73.376021
+73025,'73025','Promenades St-Bruno / Home Depot',45.507965,-73.381443
+73026,'73026','Promenades St-Bruno / Sears',45.506043,-73.374795
+73027,'73027','Promenades St-Bruno / Rona',45.502415,-73.377478
+73028,'73028','Promenades St-Bruno / Yellow',45.50765,-73.380558
+73029,'73029','Route 116 / Chambly',45.507589,-73.430079
+73030,'73030','Route 116 / Chambly',45.50809,-73.431409
+73031,'73031','Taschereau / Passerelle Piétonnière',45.511785,-73.498083
+73032,'73032','Taschereau / Passerelle Piétonnière',45.512078,-73.497859
+73033,'73033','Fayette / Adresse Civique 224',45.520113,-73.517498
+73034,'73034','Fayette / Adresse Civique 224',45.520093,-73.516933
+73035,'73035','Voie Bv-Taschereau / Patenaude',45.515666,-73.510575
+73037,'73037','Cégep Édouard-Montpetit',45.536954,-73.495306
+73038,'73038','Tiffin / Collège Charles-Lemoyne',45.514307,-73.510621
+73040,'73040','Tiffin / Collège NDL',45.515273,-73.513267
+73042,'73042','Tiffin / St-Charles Ouest',45.517115,-73.519027
+73053,'73053','Millénaire / 1er Rond-Point',45.518833,-73.29764
+73054,'73054','Millénaire / 2e Rond-Point',45.518252,-73.296818
+73055,'73055','Bella-Vista / Principale',45.516876,-73.294834
+73056,'73056','Bella-Vista / Aréna',45.515467,-73.292799
+73057,'73057','Bella-Vista / François-Massé',45.514065,-73.290828
+73058,'73058','Bella-Vista / Pinsons',45.512989,-73.289333
+73059,'73059','Bella-Vista / Hirondelles',45.511037,-73.286541
+73060,'73060','Cygnes / Fauvettes',45.511034,-73.285085
+73061,'73061','Fauvettes / Grives',45.51197,-73.283459
+73062,'73062','Fauvettes / Pigeons',45.513952,-73.282035
+73063,'73063','Hirondelles / Pigeons',45.514137,-73.283018
+73064,'73064','Pinsons / Goélands',45.513657,-73.285421
+73065,'73065','Pinsons / Duprat',45.514381,-73.287084
+73066,'73066','Duprat / Corbeil',45.516564,-73.286918
+73067,'73067','Corbeil / Prom. Des Hirondelles',45.516154,-73.282773
+73068,'73068','Prom. Des Hirondelles / Basile-Daigneault',45.517564,-73.280588
+73069,'73069','Basile-Daigneault / Cerisiers',45.518662,-73.282567
+73070,'73070','Basile-Daigneault / Duprat',45.519555,-73.284754
+73071,'73071','St-Louis / Longueuil',45.520907,-73.28772
+73072,'73072','Longueuil / Principale',45.522602,-73.290828
+73073,'73073','Principale / Mtée Robert',45.526562,-73.287295
+73074,'73074','Principale / Lapalme',45.527603,-73.286019
+73075,'73075','Lapalme / Savaria',45.52663,-73.284779
+73076,'73076','Savaria / Ormes',45.525907,-73.282167
+73077,'73077','Tilleuls / Peupliers',45.524725,-73.280138
+73078,'73078','Trembles / Chênes',45.522682,-73.279693
+73079,'73079','St-Louis / Mtée Robert',45.523776,-73.283081
+73080,'73080','Vingt / Millénaire',45.527535,-73.306107
+73081,'73081','Vingt / Taillon Ouest',45.53131,-73.303377
+73082,'73082','Taillon Ouest / Bresse',45.528673,-73.299578
+73083,'73083','Bresse / Bélainsky',45.52955,-73.298189
+73084,'73084','Bélainsky / Lafrance Ouest',45.530815,-73.297598
+73085,'73085','Lafrance Ouest / Montpelier',45.530257,-73.296781
+73086,'73086','Montpellier / Mtée Des Trinitaires',45.531815,-73.294467
+73087,'73087','Mtée Des Trinitaires / Flandre',45.53279,-73.295758
+73088,'73088','Mtée Des Trinitaires / Touraine',45.534313,-73.297928
+73089,'73089','Touraine / Normandie',45.535803,-73.296207
+73090,'73090','Touraine / Limousin',45.536525,-73.293817
+73091,'73091','Touraine / Mgne',45.537326,-73.292433
+73092,'73092','Mgne / Prés',45.536572,-73.291365
+73093,'73093','Mgne / Montpellier',45.535616,-73.289784
+73094,'73094','Montpellier / Bretagne',45.533535,-73.291624
+73095,'73095','Bretagne / Champagne',45.53189,-73.289312
+73096,'73096','Champagne / Mtée Des Trinitaires',45.530199,-73.292071
+73101,'73101','Sir-Wilfrid-Laurier / Tétreault',45.54613,-73.230295
+73102,'73102','Sir-Wilfrid-Laurier / Tétreault',45.546563,-73.230159
+73103,'73103','Sir-Wilfrid-Laurier / Maple',45.548268,-73.222603
+73104,'73104','Sir-Wilfrid-Laurier / Maple',45.548705,-73.222881
+73121,'73121','Yvon-L''Heureux Ouest / Choquette',45.559516,-73.227786
+73122,'73122','Yvon-L''Heureux Ouest / Dumas',45.561111,-73.22641
+73123,'73123','Yvon-L''Heureux Nord / Goulet',45.563557,-73.224526
+73124,'73124','Yvon-L''Heureux Ouest / Chênes',45.56577,-73.223013
+73125,'73125','Yvon-L''Heureux Nord / Lechasseur',45.570612,-73.220543
+73126,'73126','Lechasseur / Radisson',45.569015,-73.218012
+73127,'73127','Lechasseur / Dupré',45.565219,-73.212803
+73128,'73128','Jeannotte / Laurier',45.566244,-73.203556
+73129,'73129','Bernard / Laurier',45.567441,-73.202969
+73130,'73130','Dupré / Bernard',45.569591,-73.205945
+73131,'73131','St-Jean-Baptiste / Vinet',45.574511,-73.207119
+73132,'73132','Vinet / Bourgeois',45.577782,-73.204413
+73133,'73133','Vinet / Riviera',45.581324,-73.202286
+73134,'73134','Larose / Vinet',45.582775,-73.201582
+73135,'73135','Richelieu / Deslauriers',45.582908,-73.193305
+73139,'73139','Industrie / Forges',45.595031,-73.202896
+73140,'73140','Industrie / Sail',45.594688,-73.211206
+73141,'73141','Louis Marchand / Joseph Parent',45.596985,-73.21654
+73142,'73142','Louis Marchand / Pierre Louis Le Tourneux',45.601055,-73.221613
+73143,'73143','Industrie / Golf FPC',45.594589,-73.224368
+73144,'73144','Gare McMasterville',45.545156,-73.231166
+73145,'73145','Richelieu / École',45.544236,-73.223249
+73146,'73146','Richelieu / Église',45.54573,-73.218945
+73147,'73147','Richelieu / Choquette',45.54865,-73.212085
+73148,'73148','Richelieu / Biron',45.553698,-73.208202
+73149,'73149','Richelieu / Verchères',45.556493,-73.206764
+73150,'73150','Jeannotte / Richelieu',45.565017,-73.202148
+73151,'73151','Brunelle / Laurier',45.564603,-73.205163
+73152,'73152','Dupré / Brunelle',45.567452,-73.208794
+73153,'73153','Dupré / Hubert',45.570321,-73.205253
+73154,'73154','Dupré / Lataille',45.576944,-73.197467
+73155,'73155','Larose / Dupré',45.578886,-73.195439
+73156,'73156','Richelieu / Deslauriers',45.582952,-73.193433
+73157,'73157','Richelieu / Champagne',45.586626,-73.192021
+73158,'73158','Richelieu / Leclerc',45.588451,-73.191474
+73159,'73159','Stat Incitatif (20 / 223)',45.595615,-73.194279
+73161,'73161','Bernard-Pilon / Dupré',45.554124,-73.226455
+73162,'73162','Dupré / Choquette',45.556273,-73.223382
+73163,'73163','Choquette / F.-X.-Garneau',45.557978,-73.225647
+73164,'73164','Lévis / Yvon-L''Heureux Ouest',45.571211,-73.220184
+73165,'73165','Radisson / Lévis',45.569494,-73.217284
+73166,'73166','Radisson / Boullé',45.573714,-73.210258
+73167,'73167','Vinet / St-Jean-Baptiste',45.574446,-73.207318
+73168,'73168','Carmen-Bienvenu / 112-118',45.589769,-73.199988
+73169,'73169','Adrien-Provencher / Armand-Lamoureux',45.589604,-73.203947
+73170,'73170','Adrien-Provencher / Maurice-Auclair',45.589414,-73.205521
+73171,'73171','Adrien-Provencher / Jean-Luc Beaulé',45.589703,-73.208606
+73172,'73172','Bénoni-Robert / Ange-Aime-Lebrun',45.59077,-73.212219
+73173,'73173','Gilbert Désautels / Bénoni-Robert',45.588682,-73.213105
+73174,'73174','Bosquet / Larose',45.587809,-73.210085
+73175,'73175','Bosquet / Beauchemin',45.584288,-73.211539
+73176,'73176','Bosquet / Henri-Bourassa',45.583266,-73.212087
+73177,'73177','Lapointe / Bourgeois',45.58097,-73.209361
+73178,'73178','Lapointe / Gounod',45.57994,-73.210764
+73179,'73179','Maple / Constable',45.550631,-73.227745
+73180,'73180','Constable / Mon-Loisir',45.549342,-73.230388
+73181,'73181','Constable / Tétreault',45.547992,-73.232411
+73182,'73182','William-McMaster / Constable',45.545994,-73.237712
+73183,'73183','William-McMaster / Pl. Roland-St-Pierre',45.548586,-73.238446
+73184,'73184','William-McMaster / Camille-Chainey',45.549954,-73.240997
+73185,'73185','William-McMaster / Aux Cases Postales',45.549524,-73.242584
+73186,'73186','William McMaster / Yvon L''Heureux',45.551306,-73.245126
+73187,'73187','Yvon-L''Heureux / Roger-Levasseur',45.552996,-73.243661
+73188,'73188','Yvon-L''Heureux / Mon-Loisir',45.554936,-73.238333
+73189,'73189','Mon-Loisir / Belle-Source',45.552596,-73.235259
+73190,'73190','Mon-Loisir / William',45.551672,-73.23395
+73191,'73191','William / Poirier',45.553425,-73.231105
+73192,'73192','Poirier / Scott',45.556072,-73.233171
+73193,'73193','Poirier / Raymond',45.556103,-73.230908
+73194,'73194','Pelletier / Poirier',45.554932,-73.22927
+73195,'73195','Richelieu / École',45.544107,-73.223292
+73196,'73196','Richelieu / Église',45.545614,-73.219001
+73197,'73197','Maple / Bretagne',45.549103,-73.223605
+73198,'73198','William-McMaster / Albert-Gamble',45.547126,-73.239095
+73199,'73199','Bernard-Pilon / Constable',45.552658,-73.224735
+73200,'73200','Bernard-Pilon / Salle',45.552576,-73.224278
+73201,'73201','Sir-Wilfrid-Laurier / Bernard-Pilon',45.549131,-73.22024
+73202,'73202','Sir-Wilfrid-Laurier / Bernard-Pilon',45.549743,-73.219336
+73203,'73203','Sir-Wilfrid-Laurier / Choquette',45.550881,-73.21606
+73204,'73204','Sir-Wilfrid-Laurier / Choquette',45.551462,-73.215914
+73205,'73205','Sir-Wilfrid-Laurier / Jean-Talon',45.553806,-73.213248
+73206,'73206','Sir-Wilfrid-Laurier / Jean-Talon',45.554033,-73.213585
+73207,'73207','Sir-Wilfrid-Laurier / Lafontaine',45.555738,-73.211529
+73208,'73208','Sir-Wilfrid-Laurier / Hertel',45.556165,-73.211635
+73209,'73209','Sir-Wilfrid-Laurier / St-Laurent',45.557377,-73.210242
+73211,'73211','Sir-Wilfrid-Laurier / Mail Montenach',45.561276,-73.207305
+73212,'73212','Sir-Wilfrid-Laurier / Mail Montenach',45.562456,-73.206869
+73213,'73213','Sir-Wilfrid-Laurier / Pont Jordi-Bonet (Beloeil)',45.5635,-73.20547
+73214,'73214','Sir-Wilfrid-Laurier / Pont Jordi-Bonet (Beloeil)',45.56467,-73.204632
+73215,'73215','Sir-Wilfrid-Laurier / Lechasseur',45.559487,-73.20854
+73216,'73216','Sir-Wilfrid-Laurier / Lechasseur',45.559701,-73.208812
+73219,'73219','Laurier / Jeannotte',45.566333,-73.203864
+73220,'73220','Bernard-Pilon / Yvon-L''Heureux',45.557316,-73.230803
+73221,'73221','Bernard-Pilon / Yvon-L''Heureux Sud',45.557232,-73.231087
+73222,'73222','Lechasseur / Mail Montenach',45.56274,-73.210586
+73223,'73223','Cinéma Beloeil',45.593485,-73.204073
+73224,'73224','CLSC Des Patriotes',45.591099,-73.199989
+73225,'73225','Lechasseur / Dupré',45.565213,-73.212556
+73226,'73226','Lechasseur / Radisson',45.569007,-73.217766
+73227,'73227','Radisson / Pigeon',45.571781,-73.21364
+73228,'73228','Lajeunesse / Aréna',45.573535,-73.215016
+73229,'73229','Seigneurs / Gouverneurs',45.574691,-73.217429
+73230,'73230','Châteaux / Yvon-L''Heureux Nord',45.575753,-73.217606
+73231,'73231','Yvon-L''Heureux / Manoirs',45.577503,-73.216477
+73232,'73232','Bourgeois / Riviera',45.583012,-73.208158
+73233,'73233','Bourgeois / Larose',45.585596,-73.206175
+73234,'73234','Larose / Yvon-L''Heureux Nord',45.588101,-73.210697
+73235,'73235','Yvon-L''Heureux Nord / Adrien-Provencher',45.590201,-73.210014
+73236,'73236','André-Labadie / Carmen-Bienvenue',45.588893,-73.19791
+73238,'73238','St-Jean-Baptiste / Dupré',45.57173,-73.203518
+73239,'73239','Duvernay / Carref.',45.550654,-73.227316
+73240,'73240','Dupré / Pigeon',45.568459,-73.207423
+73241,'73241','Laurier / Brunelle',45.564733,-73.205058
+73242,'73242','Bernard / Laurier',45.567312,-73.202972
+73243,'73243','Cartier / Hertel',45.556353,-73.212867
+73244,'73244','Cartier / Caisse Populaire',45.554985,-73.213943
+73245,'73245','Choquette / Cartier',45.552335,-73.217178
+73246,'73246','Richelieu / Bibliothèque',45.560479,-73.20462
+73247,'73247','Richelieu / Bernard-Pilon',45.546511,-73.216277
+73248,'73248','St-François / Caron',45.546317,-73.221947
+73249,'73249','Caron / École',45.545069,-73.224214
+73250,'73250','4e Av. / OMH',45.545922,-73.226561
+73251,'73251','Joffre / 2e Av.',45.544428,-73.226203
+73252,'73252','Richelieu / Aux Résidences Richeloises',45.541933,-73.22907
+73253,'73253','Richelieu / Comtois',45.546084,-73.217312
+73254,'73254','Richelieu / Choquette',45.548507,-73.212018
+73255,'73255','Choquette / Sir-Wilfrid-Laurier',45.551229,-73.215654
+73256,'73256','Dupré / Bernard',45.569536,-73.206012
+73257,'73257','Dupré / Pigeon',45.568281,-73.207469
+73258,'73258','Dupré / St-Jean-Baptiste',45.571654,-73.203422
+73259,'73259','Dupré / Bourgeois',45.574168,-73.20009
+73260,'73260','Dupré / Larose',45.578847,-73.195285
+73261,'73261','Richelieu / Hôtellerie Rive Gauche',45.591118,-73.191164
+73262,'73262','Mtée Prévert / Joli-Vent',45.601594,-73.192475
+73263,'73263','André-Labadie / Carmen-Bienvenue',45.588634,-73.198003
+73264,'73264','André-Labadie / Gagnon',45.5869,-73.200234
+73265,'73265','Larose / André-Labadie',45.584289,-73.204173
+73266,'73266','Larose / Vinet',45.582865,-73.201444
+73267,'73267','Larose / Oka',45.581861,-73.199377
+73268,'73268','Larose / Brises',45.580131,-73.197008
+73269,'73269','Dupré / Bourgeois',45.574395,-73.199972
+73270,'73270','Dupré / St-Jean-Baptiste',45.571797,-73.203418
+73271,'73271','Lechasseur / Yvon-L''Heureux Nord',45.570715,-73.220475
+73272,'73272','Yvon-L''Heureux / Métro',45.579792,-73.215009
+73273,'73273','St-Jean-Baptiste / Lapointe',45.578233,-73.212479
+73274,'73274','Mtée Prévert / Rochelle',45.604847,-73.196912
+73275,'73275','Yvon-L''Heureux Ouest / Choquette',45.559232,-73.227614
+73276,'73276','Bernard-Pilon / Camélias',45.554753,-73.22796
+73277,'73277','Camélias / Mon-Loisir',45.551243,-73.233081
+73278,'73278','André-Labadie / Leclerc',45.591039,-73.197558
+73279,'73279','Richelieu / Leclerc',45.588424,-73.191322
+73281,'73281','Cartier / Bonair',45.553405,-73.215601
+73282,'73282','Joffre / Richelieu',45.543485,-73.224891
+73283,'73283','William-McMaster / Albert-Gamble',45.547203,-73.239243
+73284,'73284','Dupré / 1155 (Résidence)',45.575979,-73.198101
+73285,'73285','Serge-Pépin / André-Labadie',45.592465,-73.19762
+73286,'73286','Serge-Pépin / Richelieu',45.592529,-73.191066
+73287,'73287','Richelieu / Mtée Prévert',45.598175,-73.189359
+73288,'73288','André-Labadie / Leclerc',45.590887,-73.197378
+73289,'73289','André-Labadie / Serge-Pépin',45.592218,-73.197453
+73290,'73290','Dupré / 1155 (Résidence)',45.576114,-73.198122
+73291,'73291','Brunelle / Richelieu',45.563556,-73.20307
+73292,'73292','Constable / Bernard-Pilon',45.552509,-73.224599
+73293,'73293','Richelieu / Biron',45.553639,-73.208084
+73294,'73294','Richelieu / Verchères',45.556442,-73.206643
+73295,'73295','Jeannotte / Richelieu',45.564951,-73.202026
+73296,'73296','Dupré / Brunelle',45.567346,-73.208749
+73297,'73297','Dupré / Hubert',45.570179,-73.205256
+73298,'73298','Lataille / Dupré',45.576884,-73.19736
+73299,'73299','Richelieu / Champagne',45.586579,-73.1919
+73301,'73301','Sir-Wilfrid-Laurier / Pont Jordi-Bonet (MSH)',45.563193,-73.19763
+73302,'73302','Sir Wilfrid-Laurier / Pont Jordi-Bonet (MSH)',45.563392,-73.197367
+73303,'73303','Sir-Wilfrid-Laurier / Fortier',45.56196,-73.191542
+73304,'73304','Sir-Wilfrid-Laurier / St-Georges',45.562205,-73.191598
+73305,'73305','Sir Wilfrid-Laurier / Radisson',45.562472,-73.188202
+73306,'73306','Sir-Wilfrid-Laurier / IGA',45.56255,-73.188982
+73307,'73307','Sir-Wilfrid-Laurier / Falaises',45.565001,-73.183943
+73308,'73308','Sir-Wilfrid-Laurier / Blain',45.564498,-73.185315
+73309,'73309','Sir-Wilfrid-Laurier / Massif',45.566367,-73.182427
+73310,'73310','Sir-Wilfrid-Laurier / Nadeau',45.566547,-73.182876
+73311,'73311','Sir-Wilfrid-Laurier / Belval',45.568824,-73.17978
+73312,'73312','Sir-Wilfrid-Laurier / Belval',45.569206,-73.17998
+73313,'73313','Sir-Wilfrid-Laurier / Boisée',45.572411,-73.175823
+73314,'73314','Sir-Wilfrid-Laurier / Boisée',45.572626,-73.176232
+73315,'73315','Sir-Wilfrid-Laurier / Lavoie',45.575295,-73.172667
+73316,'73316','Sir-Wilfrid-Laurier / Grande-Allée',45.576245,-73.172264
+73317,'73317','Sir-Wilfrid-Laurier / Bernaches',45.577041,-73.170811
+73318,'73318','Sir-Wilfrid-Laurier / Bernaches',45.577496,-73.171
+73319,'73319','Sir-Wilfrid-Laurier / Authier',45.580294,-73.161711
+73320,'73320','Sir-Wilfrid-Laurier / Authier',45.580708,-73.161695
+73321,'73321','Sir-Wilfrid-Laurier / Rouillard',45.58175,-73.155391
+73322,'73322','Sir-Wilfrid-Laurier / Rouillard',45.582269,-73.154848
+73323,'73323','Sir-Wilfrid-Laurier / Benoît',45.584146,-73.144385
+73324,'73324','Sir-Wilfrid-Laurier / Benoît',45.584505,-73.14496
+73330,'73330','Radisson / Pineault',45.561498,-73.186453
+73331,'73331','Campbell / Radisson',45.559786,-73.183947
+73332,'73332','Campbell / Fortier',45.557892,-73.186739
+73333,'73333','Ozias-Leduc / Paul-Émile-Borduas',45.549055,-73.185611
+73334,'73334','Ozias-Leduc / Mgne',45.542195,-73.187411
+73335,'73335','Félix-Leclerc / Lauzon',45.539055,-73.186284
+73336,'73336','Félix-Leclerc / Petit-Bonheur',45.536422,-73.183363
+73337,'73337','Félix-Leclerc / Montenach',45.53579,-73.18141
+73338,'73338','Marseille / Monaco',45.52701,-73.177638
+73339,'73339','Monaco / Grenoble',45.529007,-73.180547
+73340,'73340','Hébert / Grenoble',45.529503,-73.17991
+73341,'73341','Ringuet / Lamartine',45.531162,-73.183323
+73342,'73342','Ringuet / Montenach',45.533202,-73.185688
+73343,'73343','Doyle / Château',45.535953,-73.189784
+73344,'73344','Manoir Radisson',45.560993,-73.187698
+73345,'73345','Centre-Civique / 95',45.563806,-73.191949
+73346,'73346','Villeneuve / Georges-Westinghouse',45.582935,-73.17994
+73347,'73347','Georges-Westinghouse / Atlantique',45.581307,-73.177881
+73348,'73348','Atlantique / Gare',45.579177,-73.181066
+73349,'73349','Belval / Forest',45.571464,-73.182755
+73350,'73350','Forest / Champigny',45.570617,-73.184274
+73351,'73351','Forest / Louvre',45.571654,-73.187256
+73352,'73352','Forest / Louisbourg',45.570341,-73.1889
+73353,'73353','Forest / Blain',45.568157,-73.190503
+73354,'73354','Blain / Marquette',45.566493,-73.188497
+73355,'73355','H-Charbonneau / 330',45.563813,-73.189748
+73356,'73356','Petite-Allée / Jeannotte',45.581128,-73.17453
+73357,'73357','Ozias-Leduc / Félix-Leclerc',45.540695,-73.188508
+73358,'73358','Pineault / 375',45.559749,-73.185457
+73359,'73359','Pineault / 330',45.560061,-73.186596
+73360,'73360','Ste-Anne / Provencher',45.567676,-73.192167
+73361,'73361','Ste-Anne / St-Hippolyte',45.569152,-73.194208
+73362,'73362','H-Charbonneau / IGA',45.563268,-73.189116
+73363,'73363','H-Charbonneau / Métro',45.563365,-73.188733
+73364,'73364','H-Charbonneau / Centre-Civique',45.56464,-73.190483
+73365,'73365','Centre-Civique / Ste-Anne',45.565443,-73.189117
+73366,'73366','Gare Mont-St-Hilaire',45.578252,-73.179189
+73367,'73367','Fortier / Charlevoix',45.560578,-73.190725
+73368,'73368','Fortier / Campbell',45.557827,-73.186834
+73369,'73369','Fortier / Ernest-Choquette',45.552944,-73.183512
+73370,'73370','Dublin / Doyle',45.537877,-73.189956
+73371,'73371','Dublin / Lauzon',45.537679,-73.188268
+73372,'73372','Dublin / Marie-Anne',45.53616,-73.186161
+73373,'73373','Château / Hamel',45.535185,-73.186079
+73374,'73374','Hébert / Montenach',45.53408,-73.183429
+73375,'73375','Hébert / Ringuet',45.530956,-73.18057
+73376,'73376','Hébert / Grenoble',45.52948,-73.18005
+73377,'73377','Marseille / Hébert',45.527254,-73.177144
+73378,'73378','Verdi / Renoir',45.529325,-73.176807
+73379,'73379','Verdi / Émile-Nelligan',45.530322,-73.175359
+73380,'73380','Pommeraie / Frères',45.532616,-73.177403
+73381,'73381','Felix-Leclerc / Rond-Point',45.537703,-73.184364
+73382,'73382','Jeannotte / Golf',45.58167,-73.175215
+73383,'73383','Jeannotte / Villeneuve',45.583977,-73.178265
+73384,'73384','Jeannotte / Mont-Plaisant',45.585728,-73.180887
+73385,'73385','Jeannotte / Florimont',45.586301,-73.18171
+73386,'73386','Jeannotte / Lisbonne',45.588702,-73.184702
+73387,'73387','Jeannotte / Français',45.589663,-73.186152
+73388,'73388','Patriotes Nord / Rocque',45.586879,-73.188097
+73389,'73389','Patriotes Nord / Armand-Halde',45.579541,-73.190404
+73390,'73390','Patriotes Nord / Beaujeu',45.576556,-73.191816
+73391,'73391','Patriotes Nord / Desrochers',45.574885,-73.192624
+73392,'73392','Patriotes Nord / Ste-Anne',45.569941,-73.195456
+73393,'73393','Patriotes Nord / Gaboury',45.567889,-73.196478
+73394,'73394','Rouville / Messier',45.56378,-73.19633
+73395,'73395','Campbell / Place Diamond',45.558981,-73.185103
+73396,'73396','Campbell / Seigniory',45.556313,-73.188732
+73397,'73397','Campbell / Fréchette',45.555289,-73.190016
+73398,'73398','Campbell / Mtée Des Trente',45.552863,-73.193068
+73399,'73399','Mtée Des Trente / Lévis',45.551592,-73.191666
+73400,'73400','Mtée Des Trente / Highfield',45.549033,-73.188166
+73401,'73401','Centre De La Nature Du Mont-St-Hilaire',45.535149,-73.157011
+73426,'73426','Patriotes Sud / Mtée Des Trente',45.558136,-73.200373
+73427,'73427','Côté / Mtée Des Trente',45.556427,-73.198232
+73428,'73428','Côté / Mtée Des Trente',45.556496,-73.198344
+73430,'73430','Côté / Pervenche',45.551729,-73.201672
+73432,'73432','Clifton / Côté',45.548477,-73.204562
+73434,'73434','Patriotes Sud / Place Du Manoir',45.559382,-73.199258
+73440,'73440','Patriotes Sud / Place Du Manoir',45.559555,-73.199446
+73441,'73441','Patriotes Sud / Prince-Edward',45.548148,-73.206001
+73442,'73442','Patriotes / Prince-Albert',45.543207,-73.214783
+73443,'73443','Patriotes / Ruth',45.540264,-73.2212
+73444,'73444','Ruth / Mason',45.537844,-73.218009
+73445,'73445','Mason / Gervais',45.539072,-73.216667
+73446,'73446','Spiller / Ruth',45.536825,-73.215448
+73447,'73447','Spiller / Place Mountainview',45.533885,-73.217267
+73448,'73448','Spiller / Cigales',45.533107,-73.217525
+73449,'73449','Cigales / Balmoral',45.531776,-73.214537
+73450,'73450','Balmoral / Bousquet',45.53385,-73.212291
+73451,'73451','Bousquet / Noyers',45.532503,-73.209382
+73452,'73452','Noyers / Gervais',45.534582,-73.207352
+73453,'73453','Gervais / St-John',45.535666,-73.209302
+73454,'73454','St-John / Connaught',45.537723,-73.207347
+73455,'73455','Connaught / Victoria',45.538967,-73.209685
+73456,'73456','Parkview / Rose',45.540126,-73.200433
+73457,'73457','Parkview / Bouleaux',45.538089,-73.196302
+73458,'73458','Parkview / Helen',45.540787,-73.193734
+73459,'73459','Helen / Barré',45.542073,-73.196697
+73460,'73460','Barre / Clifton',45.543886,-73.195071
+73461,'73461','Mountainview / Résidence Sharron',45.546115,-73.195514
+73462,'73462','Oeillets / Mountainview',45.548116,-73.194894
+73463,'73463','Kingston / Ann',45.547454,-73.196981
+73464,'73464','Brighton / Copping',45.547621,-73.199026
+73465,'73465','Copping / Prince-Edward',45.545891,-73.201009
+73466,'73466','Patriotes / Connaught',45.542093,-73.216377
+73467,'73467','Mason / Oxford',45.540302,-73.215489
+73468,'73468','Oxford / Spiller',45.539212,-73.213162
+73469,'73469','Spiller / Gervais',45.538,-73.214306
+73470,'73470','Clifton / Mountainview',45.545173,-73.197597
+73472,'73472','Mountainview / Clifton',45.545156,-73.197854
+73473,'73473','Mountainview / Helen',45.543387,-73.199528
+73474,'73474','Mountainview / Parkview',45.54158,-73.20127
+73475,'73475','Mountainview / Prince-Albert',45.539526,-73.206866
+73476,'73476','Victoria / Prince-Albert',45.54022,-73.208662
+73477,'73477','Victoria / Connaught',45.538999,-73.209762
+73478,'73478','Victoria / Oxford',45.538162,-73.210646
+73479,'73479','Gervais / Victoria',45.536862,-73.211869
+73480,'73480','Spiller / Gervais',45.537932,-73.2142
+73481,'73481','Spiller / Tadoussac',45.534674,-73.21703
+73482,'73482','Cigales / Cailles',45.530787,-73.21113
+73483,'73483','Cigales / Perdrix',45.53004,-73.209463
+73484,'73484','Chemin Ozias-Leduc / Verger-Tétreault',45.532945,-73.202315
+73485,'73485','Elm / Ozias-Leduc',45.536331,-73.194345
+73486,'73486','Clifton / Copping',45.546368,-73.200527
+73501,'73501','Route 116 / Hurons',45.58968,-73.119504
+73502,'73502','Route 116 / Hurons',45.589938,-73.119911
+73503,'73503','Route 116 / Rodrigue',45.590204,-73.117193
+73504,'73504','Route 116 / Rodrigue',45.590509,-73.117635
+73505,'73505','Route 116 / Rang Du Nord-Ouest',45.59116,-73.112754
+73506,'73506','Route 116 / Rang Du Nord-Ouest',45.591592,-73.112833
+73507,'73507','Route 116 / Ruisseau',45.594077,-73.100508
+73508,'73508','Route 116 / Ruisseau',45.594101,-73.101432
+73509,'73509','Route 116 / St-Simon',45.595242,-73.095324
+73510,'73510','Route 116 / St-Simon',45.595348,-73.095589
+73511,'73511','Route 116 / Bernard',45.596689,-73.088571
+73513,'73513','Route 116 / Paix',45.597026,-73.086354
+73514,'73514','Route 116 / Paix',45.597458,-73.086216
+73515,'73515','Route 116 / Rang Petit',45.588012,-73.127039
+73516,'73516','Route 116 / Rang Petit',45.588368,-73.127005
+73589,'73589','Martineau / 5110 (Marché Aux Puces)',45.648895,-72.952228
+73590,'73590','Sicotte / St-Jacques',45.620533,-72.961644
+73591,'73591','Choquette / 3455',45.632635,-72.979522
+73592,'73592','Choquette / 6285',45.630251,-72.986782
+73593,'73593','Choquette / 6780',45.628897,-72.993614
+73594,'73594','Choquette / Pinard',45.628734,-72.997149
+73595,'73595','Picard / 6935',45.633271,-72.993793
+73596,'73596','Picard / Beaudry',45.634429,-72.986948
+73597,'73597','Picard / 3475',45.636884,-72.981037
+73598,'73598','Picard / Trudeau',45.638207,-72.975311
+73599,'73599','Picard / Desjardins',45.638307,-72.970892
+73600,'73600','Cégep St-Hyacinthe',45.617165,-72.97462
+73601,'73601','Route 116 / Millette',45.600816,-73.009006
+73602,'73602','Route 116 / Rue Millette',45.601183,-73.008814
+73603,'73603','Route 116 / Demers',45.600921,-73.005566
+73604,'73604','Route 116 / Rue Demers',45.601288,-73.005309
+73605,'73605','Route 116 / Denis',45.601066,-72.999695
+73606,'73606','Route 116 / Denis',45.601424,-72.999811
+73607,'73607','Route 116 / Dieppe',45.602999,-72.983613
+73608,'73608','Route 116 / Dieppe',45.603045,-72.984349
+73609,'73609','Route 116 / Crémazie',45.604571,-72.980042
+73610,'73610','Route 116 / Crémazie',45.60492,-72.98008
+73611,'73611','Route 116 / Coulonges',45.605505,-72.97796
+73612,'73612','Route 116 / Coulonges',45.606127,-72.97761
+73613,'73613','Laurier / Castlelneau',45.607441,-72.973549
+73614,'73614','Laurier / Castlelneau',45.60772,-72.973885
+73615,'73615','Bienville / Sicotte (Cégep)',45.615126,-72.969978
+73616,'73616','Boullé / Sicotte (Cégep)',45.614541,-72.971151
+73617,'73617','Sicotte / ITA',45.617634,-72.966145
+73618,'73618','Sicotte / ITA',45.617763,-72.966225
+73619,'73619','Sicotte / Vétérinaires',45.619316,-72.963543
+73620,'73620','Sicotte / Vétérinaires',45.619502,-72.963489
+73621,'73621','Sicotte / Rue Larocque',45.621555,-72.960052
+73622,'73622','Sicotte / Larocque',45.621644,-72.960171
+73623,'73623','Dessaulles / Choquette',45.621612,-72.957016
+73624,'73624','Dessaulles / Desaulniers',45.622335,-72.956147
+73625,'73625','Dessaulles / Bruère',45.623462,-72.954002
+73626,'73626','Dessaulles / Bruère',45.623552,-72.954288
+73627,'73627','Dessaulles / Bourdages',45.624617,-72.951763
+73628,'73628','Dessaulles / Bourdages',45.624764,-72.951714
+73629,'73629','Dessaulles / Palais De Justice',45.625528,-72.948744
+73630,'73630','Dessaulles / Palais De Justice',45.626249,-72.947862
+73631,'73631','Dessaulles / Laframboise',45.626747,-72.946906
+73632,'73632','Dessaulles / Laframboise',45.626961,-72.94689
+73633,'73633','Cusson / Galerie Ste-Hyacinthe',45.640956,-72.964429
+73634,'73634','Cusson / Galerie Ste-Hyacinthe',45.640894,-72.964594
+73635,'73635','Route 116 / Domaine',45.601326,-72.991697
+73636,'73636','Route 116 / Domaine',45.601642,-72.991721
+73637,'73637','Choquette / Bérard',45.628934,-72.99018
+73638,'73638','Choquette / Bérard',45.629147,-72.989658
+73639,'73639','Choquette / Beaudry',45.631627,-72.983162
+73640,'73640','Choquette / Beaudry',45.631769,-72.983131
+73641,'73641','Choquette / Trudeau',45.632841,-72.975833
+73642,'73642','Choquette / Trudeau',45.632931,-72.976119
+73643,'73643','Choquette / Casavant Ouest',45.632206,-72.971631
+73644,'73644','Choquette / Casavant Ouest',45.632298,-72.971531
+73645,'73645','Choquette / Cartier',45.628401,-72.966712
+73646,'73646','Choquette / Cartier',45.62826,-72.966239
+73648,'73648','St-Charles / Roy',45.612055,-72.95748
+73649,'73649','Roy / St-Pierre',45.614147,-72.960211
+73650,'73650','St-Pierre / Laflamme',45.616865,-72.954699
+73651,'73651','St-Pierre / Demers',45.619101,-72.951056
+73652,'73652','Pratte / Centre Andrée-Perrault',45.633537,-72.944845
+73653,'73653','Pratte / Papineau',45.634775,-72.94737
+73654,'73654','Pratte / Sacré-Coeur',45.635851,-72.949485
+73655,'73655','Sacré-Coeur / St-Germain',45.637452,-72.94797
+73656,'73656','Sacré-Coeur / Bousquet',45.63929,-72.946062
+73657,'73657','Sacré-Coeur / Grandes-Orgues',45.642211,-72.943902
+73658,'73658','Grandes-Orgues / École Professionnelle',45.646145,-72.948443
+73659,'73659','Casavant / Complexe M',45.647789,-72.951465
+73660,'73660','Casavant / T.-D. Bouchard',45.643645,-72.956352
+73661,'73661','Casavant / Pratte',45.641119,-72.958896
+73662,'73662','Pratte / Rouleau',45.639864,-72.957723
+73663,'73663','Rouleau / Gauthier',45.637052,-72.961019
+73664,'73664','Gauthier / Lamarche',45.634448,-72.960892
+73665,'73665','Chemin Du Rapide Plat / Martineau',45.652233,-72.943556
+73666,'73666','Girouard / Kéroack',45.631151,-72.94287
+73667,'73667','Pratte / Centre Andrée-Perrault',45.633478,-72.944937
+73668,'73668','Pratte / Papineau',45.634738,-72.947511
+73669,'73669','Sacré-Coeur / Pratte',45.635976,-72.949618
+73670,'73670','Sacré-Coeur / St-Germain',45.637603,-72.947964
+73671,'73671','Sacré-Coeur / Bousquet',45.639451,-72.946044
+73672,'73672','Sacré-Coeur / Grandes-Orgues',45.642236,-72.944065
+73673,'73673','Grandes-Orgues / École Professionnelle',45.646057,-72.94856
+73674,'73674','Casavant / Complexe M',45.64748,-72.951308
+73675,'73675','Casavant / T.-D. Bouchard',45.643376,-72.956136
+73676,'73676','Casavant / Pratte',45.640918,-72.958642
+73677,'73677','Rouleau / Pratte',45.639735,-72.957621
+73678,'73678','Gauthier / Rouleau',45.636943,-72.960878
+73679,'73679','Girouard / Kéroack',45.630991,-72.942807
+73680,'73680','Pratte / Girouard',45.632382,-72.942452
+73681,'73681','Laframboise / Martineau',45.644415,-72.977489
+73682,'73682','Laframboise / 6165',45.648413,-72.9827
+73683,'73683','Laframboise / 6385',45.649867,-72.986969
+73684,'73684','Laframboise / 6620',45.649722,-72.990202
+73685,'73685','Laframboise / Prévert',45.649542,-72.996568
+73686,'73686','Laframboise / Rang De La Pointe-Du-Jour',45.649358,-73.001636
+73687,'73687','Léon / Sansoucy (1er Arrêt)',45.648469,-73.006235
+73688,'73688','Léon / Sansoucy (2e Arrêt Boîte Aux Lettres)',45.647008,-73.006398
+73689,'73689','Laframboise / Rang De La Pointe-Du-Jour',45.64912,-73.001913
+73690,'73690','Laframboise / Prévert',45.649296,-72.996805
+73691,'73691','Pinard / Verdure',45.646444,-72.994712
+73692,'73692','Pinard / Semailles',45.643278,-72.995057
+73693,'73693','Semailles / Deslandes',45.643034,-72.992864
+73694,'73694','Semailles / Harpin',45.642872,-72.990106
+73695,'73695','Harpin / Verdure',45.645984,-72.989541
+73696,'73696','Laframboise / 6385',45.649574,-72.986838
+73697,'73697','Canadian Tire',45.64271,-72.978084
+73698,'73698','Walmart',45.640991,-72.978359
+73699,'73699','Bureau En Gros',45.640006,-72.978418
+73700,'73700','Galeries St-Hyacinthe (Porte #1)',45.639443,-72.963361
+73701,'73701','Banque Laurentienne',45.643535,-72.976809
+73702,'73702','Calixa Lavallée / Brodeur',45.627486,-72.943041
+73703,'73703','Lemire / St-Luc',45.628638,-72.937104
+73704,'73704','Mercure / St-Pierre',45.627719,-72.932984
+73705,'73705','St-Pierre / St-Louis',45.625868,-72.9354
+73706,'73706','St-Louis / Brunette',45.62379,-72.932776
+73707,'73707','St-Louis / Villeneuve',45.622126,-72.930461
+73708,'73708','Desranleau / St-Louis',45.619143,-72.926049
+73709,'73709','Marchesseault / Amour',45.619431,-72.922481
+73710,'73710','Seigneurs / Lussier',45.618104,-72.923163
+73711,'73711','Perreault / Union',45.615946,-72.919605
+73712,'73712','Lemonde / St-Louis',45.614138,-72.919595
+73713,'73713','Seigneurs / Concorde',45.615326,-72.927456
+73714,'73714','Concorde / Beauregard',45.618922,-72.932447
+73715,'73715','Concorde / Brunette',45.620998,-72.936098
+73716,'73716','St-Pierre / Martel',45.620325,-72.942663
+73717,'73717','Girouard / Ste-Anne',45.624613,-72.947461
+73718,'73718','Girouard / Ste-Anne',45.624772,-72.94744
+73719,'73719','Girouard / Bruère',45.621765,-72.951719
+73720,'73720','Castelneau / Lemoyne',45.608512,-72.974232
+73721,'73721','Castelneau / Maricout',45.610587,-72.976982
+73722,'73722','Castelneau / Montigny',45.6118,-72.978533
+73723,'73723','Dieppe / Dupras',45.613055,-72.98211
+73724,'73724','Dieppe / Coulonge',45.610027,-72.985707
+73725,'73725','Dieppe / Théroux',45.606038,-72.98541
+73726,'73726','Dieppe / Route 116',45.603453,-72.984235
+73727,'73727','Route 116 / Crémazie',45.604451,-72.980334
+73728,'73728','Crémazie / Pharmacie',45.603946,-72.979643
+73729,'73729','Joncaire / Dieppe',45.601869,-72.981166
+73730,'73730','Lafleur / Duchesnay',45.599226,-72.981339
+73731,'73731','Duchesnay / Garnier',45.596636,-72.97828
+73732,'73732','Garnier / Dieppe',45.597519,-72.976301
+73733,'73733','Dieppe / Jacques-Cartier',45.599793,-72.979049
+73734,'73734','Jacques-Cartier / Crémazie',45.601506,-72.976415
+73735,'73735','Jacques-Cartier / Coulonge',45.602823,-72.974414
+73736,'73736','Jacques-Cartier / Chapleau',45.60405,-72.972486
+73737,'73737','Jacques-Cartier / Castelneau',45.605361,-72.970496
+73738,'73738','Castelneau / Bel-Air',45.606877,-72.972125
+73739,'73739','Girouard / Bruère',45.62155,-72.951835
+73740,'73740','Jutras / Bernard',45.632249,-72.935879
+73741,'73741','Bernard / Noiseau',45.633956,-72.933409
+73742,'73742','Bernard / Rigaud',45.634958,-72.929957
+73743,'73743','Bernard / Petitclerc',45.635858,-72.925767
+73744,'73744','Bernard / Archambault',45.636794,-72.921625
+73745,'73745','Bernard / Frégeau',45.638714,-72.917872
+73746,'73746','Jolibois / Brabant',45.63858,-72.91361
+73747,'73747','Jolibois / Édouard-Bilodeau',45.640544,-72.910687
+73748,'73748','Jolibois / Morissette',45.643801,-72.907102
+73749,'73749','Morissette / Marquette',45.641587,-72.90401
+73750,'73750','Marquette / Vertefeuille',45.643461,-72.901169
+73751,'73751','Marquette / Église',45.645402,-72.898662
+73752,'73752','Gosselin / Girard',45.647138,-72.895845
+73753,'73753','Gosselin / Antoine-Cabana',45.644422,-72.891833
+73754,'73754','Gosselin / Laurier',45.641945,-72.88893
+73755,'73755','Laurier / Guy',45.641199,-72.895768
+73756,'73756','Laurier / Seigneurs',45.641117,-72.90029
+73757,'73757','Laurier / Marquette',45.640863,-72.904333
+73758,'73758','Laurier / Édouard-Bilodeau',45.639668,-72.909185
+73759,'73759','Laurier / Brabant',45.637655,-72.91201
+73760,'73760','Laurier / Richer',45.63414,-72.922473
+73761,'73761','Laurier / Triquet',45.633209,-72.926672
+73762,'73762','Laurier / Wilson',45.632475,-72.930496
+73763,'73763','Cascades / Jutras',45.631699,-72.935074
+73764,'73764','Route 116 / St-Louis',45.629191,-72.939056
+73765,'73765','Ste-Anne / Hôtel-Dieu',45.626531,-72.949138
+73766,'73766','Moreau / Delorme',45.628144,-72.950702
+73767,'73767','Laframboise / Morison',45.629653,-72.95083
+73768,'73768','Laframboise / Sacré-Coeur',45.631384,-72.954212
+73769,'73769','Laframboise / Bourassa',45.632274,-72.955948
+73770,'73770','Laframboise / Blanchette',45.633123,-72.958296
+73771,'73771','Gauthier / Lamarche',45.634308,-72.960759
+73772,'73772','Paquette / Casavant',45.637951,-72.962385
+73773,'73773','Laframboise / Clinique Familiale',45.634186,-72.96408
+73774,'73774','Laframboise / Bourassa',45.632158,-72.956314
+73775,'73775','Laframboise / Nelson',45.631457,-72.954979
+73776,'73776','Laframboise / Morison',45.629421,-72.950942
+73777,'73777','Sicotte / Ste-Anne',45.627047,-72.949777
+73778,'73778','Sacré-Coeur / Laframboise',45.631452,-72.954347
+73779,'73779','Beauparlant / Viger',45.633043,-72.953999
+73780,'73780','Ste-Anne / Morison',45.628454,-72.952506
+73781,'73781','Papineau / Bourdages',45.627783,-72.955527
+73782,'73782','Bourdage / Nelson',45.629354,-72.957703
+73783,'73783','Nelson / Ste-Catherine',45.627159,-72.961217
+73784,'73784','Nelson / Choquette',45.625957,-72.963132
+73785,'73785','Choquette / Bourassa',45.626653,-72.964138
+73786,'73786','Cartier / Ste-Catherine',45.629486,-72.964605
+73787,'73787','Cartier / Raymond',45.63108,-72.962304
+73788,'73788','Cartier / St-Joseph',45.632585,-72.960094
+73789,'73789','Bourdage / Cartier',45.631949,-72.961323
+73790,'73790','Cartier / Raymond',45.631204,-72.962187
+73791,'73791','Cartier / Ste-Catherine',45.629695,-72.964569
+73792,'73792','Choquette / Cartier',45.628504,-72.966538
+73793,'73793','Choquette / Bourassa',45.626882,-72.964699
+73794,'73794','Nelson / Choquette',45.625213,-72.974179
+73795,'73795','Nelson / Ste-Catherine',45.626992,-72.961317
+73796,'73796','Nelson / Bourdage',45.629272,-72.957869
+73797,'73797','Bourdages / Papineau',45.62771,-72.955739
+73798,'73798','Morison / Ste-Anne',45.628091,-72.952563
+73799,'73799','Casavant / Ste-Catherine',45.633097,-72.969018
+73800,'73800','Parc Les Salines',45.6479,-72.957708
+73801,'73801','Choquette / Decelles',45.630058,-72.96886
+73802,'73802','Sicotte / Bienville',45.615238,-72.970179
+73803,'73803','Bienville / Sicotte (Cégep)',45.615111,-72.970165
+73804,'73804','Prosper / 2975 (L''Escale)',45.623138,-72.963359
+73805,'73805','Choquette / Decelles',45.630009,-72.968551
+73806,'73806','Casavant / Ste-Catherine',45.632985,-72.968674
+73807,'73807','Concorde / Marguerite-Bourgeoys',45.62495,-72.941807
+73808,'73808','Concorde / Bibeau',45.623934,-72.940396
+73809,'73809','Concorde / Brunette',45.621087,-72.936442
+73810,'73810','Brunette / Marguerite-D''Youville',45.619824,-72.938338
+73811,'73811','Marguerite-D''Youville / Adrien-Malo',45.617641,-72.936027
+73812,'73812','Frère-André / Blanchard',45.6152,-72.933746
+73813,'73813','Blanchard / Seigneurs',45.612635,-72.934228
+73814,'73814','Bourdages / 16720',45.615117,-72.941234
+73815,'73815','Bourdages / Ste-Madeleine',45.616793,-72.943463
+73816,'73816','Martel / St-Michel',45.61774,-72.946704
+73817,'73817','Martel / Hébert',45.616307,-72.948923
+73818,'73818','St-Paul / Fontaine',45.614865,-72.948925
+73819,'73819','St-Paul / Laflamme',45.613926,-72.950433
+73820,'73820','St-Paul / Desgranges',45.612809,-72.952111
+73821,'73821','St-Charles / Alexandre-Campbell',45.613133,-72.955879
+73822,'73822','Millénaire / Sir Wilfrid-Laurier',45.525008,-73.30246
+73823,'73823','Millénaire / Sir-Wilfrid-Laurier',45.525341,-73.303129
+73824,'73824','Vingt / Millénaire',45.527601,-73.306184
+73825,'73825','Taillon Ouest / Vingt',45.531365,-73.303319
+73826,'73826','Bresse / Taillon Ouest',45.528714,-73.299506
+73827,'73827','Bélainsky / Bresse',45.529599,-73.298237
+73828,'73828','Lafrance Ouest / Bélainsky',45.530856,-73.297542
+73829,'73829','Montpellier / Lafrance Ouest',45.530291,-73.296713
+73830,'73830','Mtée Des Trinitaires / Montpellier',45.53186,-73.294519
+73831,'73831','Mtée Des Trinitaires / Flandre',45.532861,-73.295975
+73832,'73832','Touraine / Mtée Des Trinitaires',45.534353,-73.297981
+73833,'73833','Touraine / Normandie',45.535884,-73.2962
+73834,'73834','Touraine / Limousin',45.536588,-73.293799
+73835,'73835','Mgne / Touraine',45.537371,-73.292387
+73836,'73836','Mgne / Prés',45.536568,-73.291249
+73837,'73837','Montpellier / Mgne',45.535596,-73.289719
+73838,'73838','Montpellier / Bretagne',45.533501,-73.291557
+73839,'73839','Champagne / Bretagne',45.531856,-73.289245
+73840,'73840','Lapointe / Gounod',45.579722,-73.210751
+73841,'73841','Lapointe / Bourgeois',45.580848,-73.209217
+73842,'73842','Henri-Bourassa / Bosquet',45.583092,-73.211951
+73843,'73843','Bosquet / Beauchemin',45.58399,-73.211453
+73844,'73844','Bosquet / Larose',45.58775,-73.209902
+73845,'73845','Gilbert Désautels / Bénoni-Robert',45.588545,-73.212797
+73846,'73846','Bénoni-Robert / Ange-Aime-Lebrun',45.590648,-73.21225
+73847,'73847','Adrien-Provencher / Jean-Luc Beaulé',45.589667,-73.208957
+73848,'73848','Adrien-Provencher / Maurice-Auclair',45.589269,-73.205707
+73849,'73849','Adrien-Provencher / Armand-Lamoureux',45.589266,-73.203865
+73850,'73850','Carmen-Bienvenu / 112-118',45.589619,-73.200166
+73851,'73851','Carmen-Bienvenue / André-Labadie',45.58875,-73.198096
+73852,'73852','André-Labadie / Gagnon',45.587085,-73.20024
+73854,'73854','André-Labadie / Larose',45.584382,-73.204286
+73855,'73855','Larose / Vinet',45.582869,-73.201721
+73856,'73856','Vinet / Riviera',45.581587,-73.202512
+73857,'73857','Vinet / Bourgeois',45.577901,-73.204517
+73858,'73858','Vinet / St-Jean-Baptiste',45.574635,-73.207268
+73859,'73859','Radisson / Boullé',45.57386,-73.210144
+73860,'73860','Radisson / Pigeon',45.571936,-73.213641
+73861,'73861','Radisson / Lévis',45.569552,-73.217178
+73862,'73862','Lévis / Yvon-L''Heureux Ouest',45.571366,-73.220099
+73863,'73863','Yvon-L''Heureux Nord / Marcotte',45.566197,-73.222954
+73864,'73864','Yvon-L''Heureux Ouest / Laurendeau',45.563888,-73.22446
+73865,'73865','Yvon-L''Heureux Ouest / Dumas',45.561234,-73.226495
+73866,'73866','Choquette / F.-X.-Garneau',45.557993,-73.225875
+73867,'73867','Choquette / Dupré',45.556214,-73.223477
+73868,'73868','Dupré / Bernard-Pilon',45.554204,-73.226617
+73869,'73869','Pelletier / Poirier',45.554959,-73.229134
+73870,'73870','Poirier / Raymond',45.55612,-73.230641
+73871,'73871','Poirier / Scott',45.556229,-73.23342
+73872,'73872','Poirier / William',45.553571,-73.231288
+73873,'73873','Mon-Loisir / Belle-Source',45.552599,-73.235057
+73874,'73874','William-McMaster / Constable',45.54591,-73.237499
+73875,'73875','Constable / Peter',45.546684,-73.234998
+73876,'73876','Constable / Tétreault',45.547837,-73.232402
+73877,'73877','Gare McMasterville',45.546172,-73.229854
+73878,'73878','Marseille / Hébert',45.527411,-73.176915
+73879,'73879','Hébert / Ringuet',45.530789,-73.180346
+73880,'73880','Hébert / Montenach',45.534185,-73.183279
+73881,'73881','Château / Hamel',45.535127,-73.18604
+73882,'73882','Dublin / Marie-Anne',45.536162,-73.185908
+73883,'73883','Dublin / Lauzon',45.537768,-73.188155
+73884,'73884','Dublin / Doyle',45.53795,-73.189778
+73885,'73885','Felix-Leclerc / Rond-Point',45.537685,-73.18437
+73886,'73886','Ozias-Leduc / Félix-Leclerc',45.540551,-73.18835
+73887,'73887','Ozias-Leduc / Mgne',45.542001,-73.187379
+73888,'73888','Ozias-Leduc / Paul-Émile-Borduas',45.549008,-73.185356
+73889,'73889','Ozias-Leduc / Ernest-Choquette',45.552933,-73.183328
+73890,'73890','Verdi / Renoir',45.529434,-73.176923
+73891,'73891','Fortier / Campbell',45.557807,-73.186599
+73892,'73892','Fortier / Charlevoix',45.560828,-73.190671
+73894,'73894','Jeannotte / Français',45.589671,-73.186521
+73895,'73895','Mtée Des Trente / Highfield',45.54906,-73.187873
+73896,'73896','Mtée Des Trente / Lévis',45.551655,-73.19134
+73897,'73897','Mtée Des Trente / Campbell',45.552805,-73.193013
+73898,'73898','Campbell / Fréchette',45.555146,-73.190037
+73899,'73899','Campbell / Seigniory',45.556147,-73.188771
+73900,'73900','Campbell / Fortier',45.5577,-73.186747
+73901,'73901','Campbell / Place Diamond',45.55887,-73.185065
+73902,'73902','Campbell / Radisson',45.559729,-73.18388
+73903,'73903','Radisson / Pineault',45.561536,-73.186217
+73909,'73909','Rouville / Messier',45.563902,-73.196272
+73910,'73910','Patriotes Nord / Gaboury',45.567604,-73.196379
+73911,'73911','Patriotes Nord / Ste-Anne',45.569901,-73.195183
+73912,'73912','Patriotes Nord / Desrochers',45.574811,-73.192459
+73913,'73913','Patriotes Nord / Beaujeu',45.576496,-73.191613
+73914,'73914','Patriotes Nord / Armand-Halde',45.57951,-73.19015
+73915,'73915','Patriotes Nord / Rocque',45.586841,-73.187969
+73916,'73916','Jeannotte / Lisbonne',45.588407,-73.184757
+73917,'73917','Jeannotte / Florimont',45.586279,-73.181935
+73918,'73918','Jeannotte / Mont-Plaisant',45.585718,-73.181185
+73919,'73919','Jeannotte / Villeneuve',45.583946,-73.178613
+73920,'73920','Jeannotte / Golf',45.581675,-73.175543
+73921,'73921','Cigales / Perdrix',45.530079,-73.209269
+73922,'73922','Cigales / Cailles',45.530835,-73.211078
+73923,'73923','Cigales / Balmoral',45.531798,-73.214258
+73924,'73924','Cigales / Spiller',45.533118,-73.21735
+73925,'73925','Spiller / Tadoussac',45.534764,-73.216827
+73926,'73926','Spiller / Ruth',45.536637,-73.215449
+73927,'73927','Spiller / Gervais',45.537872,-73.214261
+73928,'73928','Gervais / Victoria',45.53681,-73.211971
+73929,'73929','Victoria / Oxford',45.53799,-73.210609
+73930,'73930','Victoria / Connaught',45.538886,-73.209781
+73931,'73931','Victoria / Prince-Albert',45.540151,-73.208536
+73932,'73932','Prince-Albert / Mountainview',45.53944,-73.207006
+73933,'73933','Mountainview / Parkview',45.541404,-73.201356
+73934,'73934','Mountainview / Helen',45.543043,-73.19959
+73935,'73935','Mountainview / Clifton',45.545112,-73.197737
+73936,'73936','Clifton / Copping',45.546471,-73.200428
+73937,'73937','Clifton / Côté',45.548412,-73.204536
+73939,'73939','Mtée Des Trente / Patriotes Sud',45.558077,-73.200125
+73941,'73941','Gare McMasterville',45.546225,-73.229677
+73942,'73942','St-Louis / Mtée Robert',45.523682,-73.283226
+73943,'73943','Trembles / Chênes',45.522557,-73.279657
+73944,'73944','Tilleuls / Peupliers',45.524726,-73.279901
+73945,'73945','Tilleuls / Ormes',45.525986,-73.28194
+73946,'73946','Savaria / Lapalme',45.526702,-73.284647
+73947,'73947','Lapalme / Principale',45.527658,-73.285817
+73948,'73948','Principale / Mtée Robert',45.526794,-73.2873
+73949,'73949','Principale / Longueuil',45.522715,-73.290992
+73950,'73950','Longueuil / St-Louis',45.520967,-73.287878
+73951,'73951','Basile-Daigneault / Duprat',45.519544,-73.284973
+73952,'73952','Basile-Daigneault / Cerisiers',45.51853,-73.282744
+73953,'73953','Basile-Daigneault / Prom. Des Hirondelles',45.51771,-73.280733
+73954,'73954','Prom. Des Hirondelles / Côte Corbeil',45.516256,-73.282654
+73955,'73955','Corbeil / Dupras',45.516694,-73.286913
+73956,'73956','Duprat / Pinsons',45.514399,-73.287266
+73957,'73957','Pinsons / Goélands',45.513611,-73.285627
+73958,'73958','Merles / Hirondelles',45.513374,-73.283404
+73959,'73959','Pigeons / Fauvettes',45.513973,-73.282208
+73960,'73960','Fauvettes / Grives',45.512148,-73.283454
+73961,'73961','Fauvettes / Cygnes',45.511121,-73.284942
+73962,'73962','Hirondelles / Bella-Vista',45.511138,-73.286357
+73963,'73963','Bella-Vista / Pinsons',45.512998,-73.289051
+73964,'73964','Bella-Vista / François-Massé',45.51407,-73.290544
+73965,'73965','Bella-Vista / Principale',45.516965,-73.294518
+73966,'73966','Gare St-Basile-Le-Grand',45.523496,-73.304193
+73967,'73967','Côté / Pervenche',45.551598,-73.201529
+73969,'73969','Elm / Ozias-Leduc',45.536383,-73.194481
+73972,'73972','Constable / Mon-Loisir',45.549137,-73.230348
+73973,'73973','Constable / Maple',45.551141,-73.226586
+73974,'73974','Maple / Bretagne',45.549129,-73.223829
+73975,'73975','Mon-Loisir / Yvon-L''Heureux',45.554994,-73.238181
+73976,'73976','Yvon-L''Heureux / Roger-Levasseur',45.553167,-73.243613
+73977,'73977','William-McMaster / Pl. Roland-St-Pierre',45.548528,-73.238772
+73979,'73979','Yvon-L''Heureux Sud / William-McMaster',45.551008,-73.244905
+73980,'73980','Millénaire / 1er Rond-Point',45.518297,-73.296402
+73981,'73981','Millénaire / 2e Rond-Point',45.518874,-73.297218
+73982,'73982','William / Mon-Loisir',45.551751,-73.233867
+73983,'73983','William McMaster / Aux Cases Postales',45.549561,-73.242835
+73984,'73984','William-McMaster / Camille-Chainey',45.549856,-73.240778
+73985,'73985','Gare Mont-St-Hilaire',45.577489,-73.178676
+73986,'73986','Pommeraie / Frères',45.532604,-73.177626
+73987,'73987','Verdi / Émile-Nelligan',45.530555,-73.175283
+73988,'73988','Chemin Ozias-Leduc / Verger-Tétreault',45.533015,-73.202384
+73989,'73989','Mtée Des Trinitaires / Champagne',45.530269,-73.291868
+73990,'73990','Bella-Vista / Aréna',45.515548,-73.292627
+73992,'73992','CFP Des Patriotes',45.576026,-73.306808
+73995,'73995','Terminus Longueuil',45.523614,-73.520874
+73996,'73996','Terminus St-Hyacinthe',45.62564,-72.945485
+73997,'73997','Nazareth / Ottawa',45.496375,-73.557905
+73998,'73998','Duke / William',45.497427,-73.55854
