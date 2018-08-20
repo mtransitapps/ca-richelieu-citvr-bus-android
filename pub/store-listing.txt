@@ -6,7 +6,7 @@ Schedules. News.
 ----------
 What's new in this version?:
 (AMT/CIT => RTM => exo)
-Schedule from August 11, 2018 to January 13, 2019.
+Schedule from August 20, 2018 to January 13, 2019.
 News from rtm.quebec.
 Tweets from @exo_VRichelieu.
 ----------
