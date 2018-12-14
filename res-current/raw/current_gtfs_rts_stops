@@ -1,5 +1,5 @@
 16000,'16000','Terminus Mansfield',45.498457,-73.564729
-71021,'71021','Bombardier / Nobel',45.581671,-73.312429
+71021,'71021','Nobel / Bombardier',45.581671,-73.312429
 71022,'71022','Bombardier / Marconi',45.579287,-73.311597
 71023,'71023','Bombardier / Darwin',45.577786,-73.30819
 71321,'71321','Terminus Ste-Julie',45.582239,-73.323893
@@ -20,7 +20,7 @@
 73017,'73017','Sir-Wilfrid-Laurier / Boucherville',45.520022,-73.317777
 73018,'73018','Sir-Wilfrid-Laurier / Boucherville',45.520242,-73.318031
 73019,'73019','Sir-Wilfrid-Laurier / Seigneurial Ouest',45.513439,-73.343175
-73020,'73020','Sir-Wilfrid-Laurier / Seigneurial Ouest',45.513762,-73.344212
+73020,'73020','Bl. Sir-Wilfrid-Laurier / Bl. Seigneurial Ouest',45.513762,-73.344212
 73021,'73021','Sir-Wilfrid-Laurier / Cèdres',45.514966,-73.330234
 73022,'73022','Sir-Wilfrid-Laurier / Cèdres',45.515167,-73.330555
 73023,'73023','Promenades St-Bruno / Cinéma',45.506255,-73.382291
@@ -33,8 +33,8 @@
 73030,'73030','Route 116 / Chambly',45.50809,-73.431409
 73031,'73031','Taschereau / Passerelle Piétonnière',45.511785,-73.498083
 73032,'73032','Taschereau / Passerelle Piétonnière',45.512078,-73.497859
-73033,'73033','Fayette / Adresse Civique 224',45.520113,-73.517498
-73034,'73034','Fayette / Adresse Civique 224',45.520093,-73.516933
+73033,'73033','Fayette / Adresse Civique 224',45.52052,-73.518806
+73034,'73034','Fayette / Adresse Civique 224',45.520664,-73.518736
 73035,'73035','Voie Bv-Taschereau / Patenaude',45.515666,-73.510575
 73037,'73037','Cégep Édouard-Montpetit',45.536954,-73.495306
 73038,'73038','Tiffin / Collège Charles-Lemoyne',45.514307,-73.510621
@@ -125,24 +125,6 @@
 73158,'73158','Richelieu / Leclerc',45.588451,-73.191474
 73159,'73159','Stat Incitatif (20 / 223)',45.595615,-73.194279
 73160,'73160','Industrie / Richelieu',45.595047,-73.190502
-73161,'73161','Bernard-Pilon / Dupré',45.554124,-73.226455
-73162,'73162','Dupré / Choquette',45.556273,-73.223382
-73163,'73163','Choquette / F.-X.-Garneau',45.557978,-73.225647
-73164,'73164','Lévis / Yvon-L''Heureux Ouest',45.571211,-73.220184
-73165,'73165','Radisson / Lévis',45.569494,-73.217284
-73166,'73166','Radisson / Boullé',45.573714,-73.210258
-73167,'73167','Vinet / St-Jean-Baptiste',45.574446,-73.207318
-73168,'73168','Carmen-Bienvenu / 112-118',45.589769,-73.199988
-73169,'73169','Adrien-Provencher / Armand-Lamoureux',45.589604,-73.203947
-73170,'73170','Adrien-Provencher / Maurice-Auclair',45.589414,-73.205521
-73171,'73171','Adrien-Provencher / Jean-Luc Beaulé',45.589703,-73.208606
-73172,'73172','Bénoni-Robert / Ange-Aime-Lebrun',45.59077,-73.212219
-73173,'73173','Gilbert Désautels / Bénoni-Robert',45.588682,-73.213105
-73174,'73174','Bosquet / Larose',45.587809,-73.210085
-73175,'73175','Bosquet / Beauchemin',45.584288,-73.211539
-73176,'73176','Bosquet / Henri-Bourassa',45.583266,-73.212087
-73177,'73177','Lapointe / Bourgeois',45.58097,-73.209361
-73178,'73178','Lapointe / Gounod',45.57994,-73.210764
 73179,'73179','Maple / Constable',45.550631,-73.227745
 73180,'73180','Constable / Mon-Loisir',45.549342,-73.230388
 73181,'73181','Constable / Tétreault',45.547992,-73.232411
@@ -163,8 +145,6 @@
 73196,'73196','Richelieu / Église',45.545614,-73.219001
 73197,'73197','Maple / Bretagne',45.549103,-73.223605
 73198,'73198','William-McMaster / Albert-Gamble',45.547126,-73.239095
-73199,'73199','Bernard-Pilon / Constable',45.552658,-73.224735
-73200,'73200','Bernard-Pilon / Salle',45.552576,-73.224278
 73201,'73201','Sir-Wilfrid-Laurier / Bernard-Pilon',45.549131,-73.22024
 73202,'73202','Sir-Wilfrid-Laurier / Bernard-Pilon',45.549743,-73.219336
 73203,'73203','Sir-Wilfrid-Laurier / Choquette',45.550881,-73.21606
@@ -176,8 +156,8 @@
 73209,'73209','Sir-Wilfrid-Laurier / St-Laurent',45.557377,-73.210242
 73211,'73211','Sir-Wilfrid-Laurier / Mail Montenach',45.561276,-73.207305
 73212,'73212','Sir-Wilfrid-Laurier / Mail Montenach',45.562456,-73.206869
-73213,'73213','Sir-Wilfrid-Laurier / Pont Jordi-Bonet (Beloeil)',45.5635,-73.20547
-73214,'73214','Sir-Wilfrid-Laurier / Pont Jordi-Bonet (Beloeil)',45.56467,-73.204632
+73213,'73213','Boul.Sir-Wilfrid-Laurier / Pont Jordi-Bonet(Beloeil)',45.5635,-73.20547
+73214,'73214','Boul.Sir-Wilfrid-Laurier / Pont Jordi-Bonet(Beloeil)',45.56467,-73.204632
 73215,'73215','Sir-Wilfrid-Laurier / Lechasseur',45.559487,-73.20854
 73216,'73216','Sir-Wilfrid-Laurier / Lechasseur',45.559701,-73.208812
 73219,'73219','Laurier / Jeannotte',45.566333,-73.203864
@@ -260,6 +240,7 @@
 73297,'73297','Dupré / Hubert',45.570179,-73.205256
 73298,'73298','Lataille / Dupré',45.576884,-73.19736
 73299,'73299','Richelieu / Champagne',45.586579,-73.1919
+73300,'73300','Yvon-L''Heureux N. / Serge Pépin',45.593473,-73.208876
 73301,'73301','Sir-Wilfrid-Laurier / Pont Jordi-Bonet (MSH)',45.563193,-73.19763
 73302,'73302','Sir Wilfrid-Laurier / Pont Jordi-Bonet (MSH)',45.563392,-73.197367
 73303,'73303','Sir-Wilfrid-Laurier / Fortier',45.56196,-73.191542
@@ -284,6 +265,7 @@
 73322,'73322','Sir-Wilfrid-Laurier / Rouillard',45.582269,-73.154848
 73323,'73323','Sir-Wilfrid-Laurier / Benoît',45.584146,-73.144385
 73324,'73324','Sir-Wilfrid-Laurier / Benoît',45.584505,-73.14496
+73329,'73329','Pratte / Sacré-Coeur',45.635851,-72.949969
 73330,'73330','Radisson / Pineault',45.561498,-73.186453
 73331,'73331','Campbell / Radisson',45.559786,-73.183947
 73332,'73332','Campbell / Fortier',45.557892,-73.186739
@@ -354,7 +336,7 @@
 73397,'73397','Campbell / Fréchette',45.555289,-73.190016
 73398,'73398','Campbell / Mtée Des Trente',45.552863,-73.193068
 73399,'73399','Mtée Des Trente / Lévis',45.551592,-73.191666
-73400,'73400','Mtée Des Trente / Highfield',45.549033,-73.188166
+73400,'73400','Mtée Des Trente / Heure-Mauve',45.548665,-73.187526
 73401,'73401','Centre De La Nature Du Mont-St-Hilaire',45.535149,-73.157011
 73426,'73426','Patriotes Sud / Mtée Des Trente',45.558136,-73.200373
 73427,'73427','Côté / Mtée Des Trente',45.556427,-73.198232
@@ -424,6 +406,8 @@
 73514,'73514','Route 116 / Paix',45.597458,-73.086216
 73515,'73515','Route 116 / Rang Petit',45.588012,-73.127039
 73516,'73516','Route 116 / Rang Petit',45.588368,-73.127005
+73587,'73587','Johnson Est / Casavant Est',45.646711,-72.952877
+73588,'73588','Johnson E. / Casavant E.',45.646451,-72.952975
 73589,'73589','Martineau / 5110 (Marché Aux Puces)',45.648895,-72.952228
 73590,'73590','Sicotte / St-Jacques',45.620533,-72.961644
 73591,'73591','Choquette / 3455',45.632635,-72.979522
@@ -482,7 +466,6 @@
 73644,'73644','Choquette / Casavant Ouest',45.632298,-72.971531
 73645,'73645','Choquette / Cartier',45.628401,-72.966712
 73646,'73646','Choquette / Cartier',45.62826,-72.966239
-73647,'73647','5460 Rue Martineau',45.645145,-72.964324
 73648,'73648','St-Charles / Roy',45.612055,-72.95748
 73649,'73649','Roy / St-Pierre',45.614147,-72.960211
 73650,'73650','St-Pierre / Laflamme',45.616865,-72.954699
@@ -493,7 +476,7 @@
 73655,'73655','Sacré-Coeur / St-Germain',45.637452,-72.94797
 73656,'73656','Sacré-Coeur / Bousquet',45.63929,-72.946062
 73657,'73657','Sacré-Coeur / Grandes-Orgues',45.642211,-72.943902
-73658,'73658','Grandes-Orgues / École Professionnelle',45.646145,-72.948443
+73658,'73658','Av.Des Grandes-Orgues / Face École Professionnelle',45.646145,-72.948443
 73659,'73659','Casavant / Complexe M',45.647789,-72.951465
 73660,'73660','Casavant / T.-D. Bouchard',45.643645,-72.956352
 73661,'73661','Casavant / Pratte',45.641119,-72.958896
@@ -508,7 +491,7 @@
 73670,'73670','Sacré-Coeur / St-Germain',45.637603,-72.947964
 73671,'73671','Sacré-Coeur / Bousquet',45.639451,-72.946044
 73672,'73672','Sacré-Coeur / Grandes-Orgues',45.642236,-72.944065
-73673,'73673','Grandes-Orgues / École Professionnelle',45.646057,-72.94856
+73673,'73673','Av.Des Grandes-Orgues / Face École Professionnelle',45.646057,-72.94856
 73674,'73674','Casavant / Complexe M',45.64748,-72.951308
 73675,'73675','Casavant / T.-D. Bouchard',45.643376,-72.956136
 73676,'73676','Casavant / Pratte',45.640918,-72.958642
@@ -523,7 +506,7 @@
 73685,'73685','Laframboise / Prévert',45.649542,-72.996568
 73686,'73686','Laframboise / Rang De La Pointe-Du-Jour',45.649358,-73.001636
 73687,'73687','Léon / Sansoucy (1er Arrêt)',45.648469,-73.006235
-73688,'73688','Léon / Sansoucy (2e Arrêt Boîte Aux Lettres)',45.647008,-73.006398
+73688,'73688','Léon / Sansoucy(2e Arrêt Boîte Aux Lettres)',45.647008,-73.006398
 73689,'73689','Laframboise / Rang De La Pointe-Du-Jour',45.64912,-73.001913
 73690,'73690','Laframboise / Prévert',45.649296,-72.996805
 73691,'73691','Pinard / Verdure',45.646444,-72.994712
@@ -615,25 +598,8 @@
 73777,'73777','Sicotte / Ste-Anne',45.627047,-72.949777
 73778,'73778','Sacré-Coeur / Laframboise',45.631452,-72.954347
 73779,'73779','Beauparlant / Viger',45.633043,-72.953999
-73780,'73780','Ste-Anne / Morison',45.628454,-72.952506
-73781,'73781','Papineau / Bourdages',45.627783,-72.955527
-73782,'73782','Bourdage / Nelson',45.629354,-72.957703
-73783,'73783','Nelson / Ste-Catherine',45.627159,-72.961217
-73784,'73784','Nelson / Choquette',45.625957,-72.963132
 73785,'73785','Choquette / Bourassa',45.626653,-72.964138
-73786,'73786','Cartier / Ste-Catherine',45.629486,-72.964605
-73787,'73787','Cartier / Raymond',45.63108,-72.962304
-73788,'73788','Cartier / St-Joseph',45.632585,-72.960094
-73789,'73789','Bourdage / Cartier',45.631949,-72.961323
-73790,'73790','Cartier / Raymond',45.631204,-72.962187
-73791,'73791','Cartier / Ste-Catherine',45.629695,-72.964569
-73792,'73792','Choquette / Cartier',45.628504,-72.966538
 73793,'73793','Choquette / Bourassa',45.626882,-72.964699
-73794,'73794','Nelson / Choquette',45.625213,-72.974179
-73795,'73795','Nelson / Ste-Catherine',45.626992,-72.961317
-73796,'73796','Nelson / Bourdage',45.629272,-72.957869
-73797,'73797','Bourdages / Papineau',45.62771,-72.955739
-73798,'73798','Morison / Ste-Anne',45.628091,-72.952563
 73799,'73799','Casavant / Ste-Catherine',45.633097,-72.969018
 73800,'73800','Parc Les Salines',45.6479,-72.957708
 73801,'73801','Choquette / Decelles',45.630058,-72.96886
@@ -677,26 +643,12 @@
 73839,'73839','Champagne / Bretagne',45.531856,-73.289245
 73840,'73840','Lapointe / Gounod',45.579722,-73.210751
 73841,'73841','Lapointe / Bourgeois',45.580848,-73.209217
-73842,'73842','Henri-Bourassa / Bosquet',45.583092,-73.211951
-73843,'73843','Bosquet / Beauchemin',45.58399,-73.211453
-73844,'73844','Bosquet / Larose',45.58775,-73.209902
-73845,'73845','Gilbert Désautels / Bénoni-Robert',45.588545,-73.212797
-73846,'73846','Bénoni-Robert / Ange-Aime-Lebrun',45.590648,-73.21225
-73847,'73847','Adrien-Provencher / Jean-Luc Beaulé',45.589667,-73.208957
-73848,'73848','Adrien-Provencher / Maurice-Auclair',45.589269,-73.205707
-73849,'73849','Adrien-Provencher / Armand-Lamoureux',45.589266,-73.203865
-73850,'73850','Carmen-Bienvenu / 112-118',45.589619,-73.200166
-73851,'73851','Carmen-Bienvenue / André-Labadie',45.58875,-73.198096
 73852,'73852','André-Labadie / Gagnon',45.587085,-73.20024
 73854,'73854','André-Labadie / Larose',45.584382,-73.204286
 73855,'73855','Larose / Vinet',45.582869,-73.201721
 73856,'73856','Vinet / Riviera',45.581587,-73.202512
 73857,'73857','Vinet / Bourgeois',45.577901,-73.204517
 73858,'73858','Vinet / St-Jean-Baptiste',45.574635,-73.207268
-73859,'73859','Radisson / Boullé',45.57386,-73.210144
-73860,'73860','Radisson / Pigeon',45.571936,-73.213641
-73861,'73861','Radisson / Lévis',45.569552,-73.217178
-73862,'73862','Lévis / Yvon-L''Heureux Ouest',45.571366,-73.220099
 73863,'73863','Yvon-L''Heureux Nord / Marcotte',45.566197,-73.222954
 73864,'73864','Yvon-L''Heureux Ouest / Laurendeau',45.563888,-73.22446
 73865,'73865','Yvon-L''Heureux Ouest / Dumas',45.561234,-73.226495
@@ -728,7 +680,7 @@
 73891,'73891','Fortier / Campbell',45.557807,-73.186599
 73892,'73892','Fortier / Charlevoix',45.560828,-73.190671
 73894,'73894','Jeannotte / Français',45.589671,-73.186521
-73895,'73895','Mtée Des Trente / Highfield',45.54906,-73.187873
+73895,'73895','Mtée Des Trente / Heure-Mauve',45.548671,-73.187415
 73896,'73896','Mtée Des Trente / Lévis',45.551655,-73.19134
 73897,'73897','Mtée Des Trente / Campbell',45.552805,-73.193013
 73898,'73898','Campbell / Fréchette',45.555146,-73.190037
@@ -737,7 +689,6 @@
 73901,'73901','Campbell / Place Diamond',45.55887,-73.185065
 73902,'73902','Campbell / Radisson',45.559729,-73.18388
 73903,'73903','Radisson / Pineault',45.561536,-73.186217
-73904,'73904','Choquette / Pinard',45.628829,-72.997137
 73905,'73905','Choquette / Pinard',45.628636,-72.997336
 73909,'73909','Rouville / Messier',45.563902,-73.196272
 73910,'73910','Patriotes Nord / Gaboury',45.567604,-73.196379
