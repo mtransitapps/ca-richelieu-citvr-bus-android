@@ -15,7 +15,6 @@
 2601,0,'Gare St-Basile-Le-Grand',26
 2700,0,'Beloeil',27
 2701,0,'McMasterville',27
-3000,0,'St-Hyacinthe',30
 5004,0,'Centre-Ville',50
 5003,0,'Galeries',50
 5103,0,'Centre-Ville',51
@@ -52,9 +51,6 @@
 202001,0,'Gare McMasterville',2020
 1302001,0,'Gare McMasterville',13020
 1302000,0,'McMasterville',13020
-2003000,0,'McMasterville - Ste-Julie',20030
-2003001,0,'Ste-Julie - McMasterville',20030
-2006100,0,'Parc Les Salines',20061
 2006201,0,'Galeries / Parc Ind',20062
 2008001,0,'Beloeil',20080
 2008000,0,'Industrie',20080

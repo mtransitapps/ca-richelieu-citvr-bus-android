@@ -1,8 +1,4 @@
 16000,'16000','Terminus Mansfield Quai 6',45.497972,-73.564192
-71021,'71021','Nobel / Bombardier',45.581671,-73.312429
-71022,'71022','Bombardier / Marconi',45.579287,-73.311597
-71023,'71023','Bombardier / Darwin',45.577786,-73.30819
-71321,'71321','Terminus Ste-Julie - Quai 4',45.582239,-73.323893
 73001,'73001','Sir-Wilfrid-Laurier / Millénaire',45.524677,-73.30216
 73002,'73002','Sir-Wilfrid-Laurier / Millénaire',45.524986,-73.30233
 73003,'73003','Sir-Wilfrid-Laurier / Jean-Charles-Michaud',45.526661,-73.295331
@@ -37,10 +33,6 @@
 73033,'73033','Fayette / St-Charles Ouest',45.520573,-73.519072
 73034,'73034','Fayette / St-Charles Ouest',45.52073,-73.518887
 73035,'73035','Taschereau / Patenaude',45.515362,-73.509979
-73037,'73037','Cégep Édouard-Montpetit',45.536954,-73.495306
-73038,'73038','Tiffin / Devant Le Collège Charles-Lemoyne',45.514307,-73.510621
-73040,'73040','Tiffin / Devant Le Collège N.-D.-L.',45.515273,-73.513267
-73042,'73042','Tiffin / St-Charles Ouest',45.517115,-73.519027
 73043,'73043','Patriotes Nord / Gare',45.58525,-73.188729
 73044,'73044','Patriotes Nord / Gare',45.584882,-73.188714
 73053,'73053','Millénaire / Devant Le #1200',45.518833,-73.29764
@@ -187,8 +179,6 @@
 73215,'73215','Sir-Wilfrid-Laurier / Lechasseur',45.559487,-73.20854
 73216,'73216','Sir-Wilfrid-Laurier / Lechasseur',45.559701,-73.208812
 73219,'73219','Laurier / Jeannotte',45.566333,-73.203864
-73220,'73220','Bernard-Pilon / Yvon-L''Heureux Nord',45.557316,-73.230803
-73221,'73221','Bernard-Pilon / Yvon-L''Heureux Sud',45.557232,-73.231087
 73222,'73222','Lechasseur / Mail Montenach (Entrée #6)',45.56274,-73.210586
 73223,'73223','Serge-Pépin / Devant Le Cinéma Beloeil',45.593485,-73.204073
 73224,'73224','CLSC Des Patriotes',45.591099,-73.199989
@@ -480,14 +470,9 @@
 73634,'73634','Cusson / Devant Les Galeries Ste-Hyacinthe',45.640894,-72.964594
 73635,'73635','Laurier Ouest / Domaine',45.601326,-72.991697
 73636,'73636','Laurier Ouest / Domaine',45.601642,-72.991721
-73637,'73637','Choquette / Bérard',45.628934,-72.99018
 73638,'73638','Choquette / Bérard',45.629147,-72.989658
-73639,'73639','Choquette / Beaudry',45.631627,-72.983162
 73640,'73640','Choquette / Beaudry',45.631769,-72.983131
-73641,'73641','Choquette / Trudeau',45.632841,-72.975833
 73642,'73642','Choquette / Trudeau',45.632931,-72.976119
-73643,'73643','Choquette / Casavant Ouest',45.632206,-72.971631
-73644,'73644','Choquette / Casavant Ouest',45.632298,-72.971531
 73645,'73645','Choquette / Cartier',45.628401,-72.966712
 73646,'73646','Choquette / Cartier',45.62826,-72.966239
 73648,'73648','St-Charles / Roy',45.612055,-72.95748
@@ -744,7 +729,6 @@
 73901,'73901','Campbell / Place Diamond',45.55887,-73.185065
 73902,'73902','Campbell / Radisson',45.559729,-73.18388
 73903,'73903','Radisson / Pineault',45.561536,-73.186217
-73905,'73905','Choquette / Pinard',45.628636,-72.997336
 73906,'73906','Dessaulles / Vétérinaires',45.618463,-72.962174
 73907,'73907','Dessaulles / Vétérinaires',45.618236,-72.962223
 73909,'73909','Rouville / Messier',45.563902,-73.196272
@@ -823,7 +807,6 @@
 73988,'73988','Ozias-Leduc / Verger-Tétreault',45.533015,-73.202384
 73989,'73989','Mtée Des Trinitaires / Champagne',45.530269,-73.291868
 73990,'73990','Bella-Vista / Aréna Jean-Rougeau',45.515548,-73.292627
-73992,'73992','Centre De Formation Professionelle Des Patriotes',45.576026,-73.306808
 73995,'73995','Terminus Longueuil Porte 31',45.523614,-73.520874
 73996,'73996','Terminus St-Hyacinthe',45.62564,-72.945485
 73997,'73997','Robert-Bourassa / Ottawa',45.496375,-73.557905
