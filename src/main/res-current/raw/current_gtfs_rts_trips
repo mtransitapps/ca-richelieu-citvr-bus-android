@@ -43,14 +43,15 @@
 8500,0,'Beloeil',85
 20001,0,'Longueuil',200
 20000,0,'St-Hyacinthe',200
-20101,0,'Longueuil',201
-20100,0,'Mont-St-Hilaire',201
 30001,0,'Montréal',300
 30000,0,'St-Hyacinthe',300
 202000,0,'Beloeil',2020
 202001,0,'Gare McMasterville',2020
 1302001,0,'Gare McMasterville',13020
 1302000,0,'McMasterville',13020
+2003000,0,'McMasterville - Ste-Julie',20030
+2003001,0,'Ste-Julie - McMasterville',20030
+2006100,0,'Parc Les Salines',20061
 2006201,0,'Galeries / Parc Ind',20062
 2008001,0,'Beloeil',20080
 2008000,0,'Industrie',20080
