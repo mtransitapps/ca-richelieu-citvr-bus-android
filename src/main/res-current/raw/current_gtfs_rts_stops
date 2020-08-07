@@ -148,7 +148,7 @@
 73176,'73176','Bosquet / Henri-Bourassa',45.583266,-73.212087
 73177,'73177','Lapointe / Bourgeois',45.58097,-73.209361
 73178,'73178','Lapointe / Gounod',45.57994,-73.210764
-73179,'73179','Maple / Constable',45.550631,-73.227745
+73179,'73179','Constable / Normandie',45.550631,-73.227745
 73180,'73180','Constable / Mon-Loisir',45.549342,-73.230388
 73181,'73181','Constable / Tétrault',45.547992,-73.232411
 73182,'73182','W.-McMaster / Constable',45.545994,-73.237712
@@ -204,7 +204,7 @@
 73235,'73235','Yvon-L''Heureux Nord / Adrien-Provencher',45.590201,-73.210014
 73236,'73236','André-Labadie / Carmen-Bienvenu',45.588893,-73.19791
 73238,'73238','St-Jean-Baptiste / Dupré',45.57173,-73.203518
-73239,'73239','Duvernay / Carref.',45.550654,-73.227316
+73239,'73239','Constable / Morin',45.550654,-73.227316
 73240,'73240','Dupré / Pigeon',45.568459,-73.207423
 73241,'73241','Laurier / Brunelle',45.564733,-73.205058
 73242,'73242','Bernard / Laurier',45.567312,-73.202972
@@ -822,9 +822,9 @@
 73997,'73997','Robert-Bourassa / Ottawa',45.496375,-73.557905
 73998,'73998','Robert-Bourassa / William',45.497427,-73.55854
 79993,'79993','Laframboise / Martineau',45.643756,-72.977254
-79994,'79994','Lamoureux / Dussault',45.646118,-72.976039
-79995,'79995','Pion / Lamoureux',45.646369,-72.971389
-79996,'79996','Martineau / Pion',45.643416,-72.971987
-79997,'79997','Martineau / Dussault',45.643862,-72.975904
+79994,'79994','Dussault / Lamoureux',45.645908,-72.976148
+79995,'79995','Lamoureux / Pion',45.646461,-72.971706
+79996,'79996','Pion / Martineau',45.643638,-72.971912
+79997,'79997','Dussault / Martineau',45.64414,-72.975909
 79998,'79998','Daniel-Johnson Ouest / Cusson',45.64167,-72.966209
 79999,'79999','Daniel-Johnson Ouest / Cusson',45.64144,-72.965892
