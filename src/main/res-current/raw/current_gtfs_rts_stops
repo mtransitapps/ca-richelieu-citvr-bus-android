@@ -131,7 +131,7 @@
 73156,'73156','Richelieu / Deslauriers',45.582952,-73.193433
 73157,'73157','Richelieu / Champagne',45.586626,-73.192021
 73158,'73158','Richelieu / Leclerc',45.588451,-73.191474
-73159,'73159','Stat Incitatif (A-20 / R-223)',45.595615,-73.194279
+73159,'73159','André-Labadie / Boischatel',45.589543,-73.197245
 73160,'73160','Industrie / Richelieu',45.595047,-73.190502
 73161,'73161','Bernard-Pilon / Dupré',45.554124,-73.226455
 73162,'73162','Dupré / Choquette',45.556273,-73.223382
@@ -248,7 +248,7 @@
 73277,'73277','Camélias / Mon-Loisir',45.551243,-73.233081
 73278,'73278','André-Labadie / Leclerc',45.591039,-73.197558
 73279,'73279','Richelieu / Leclerc',45.588424,-73.191322
-73280,'73280','Industrie / Richelieu',45.595204,-73.190487
+73280,'73280','Serge-Pépin / Richelieu',45.592722,-73.191144
 73281,'73281','Cartier / Bonair',45.553405,-73.215601
 73282,'73282','Joffre / Richelieu',45.543485,-73.224891
 73283,'73283','W.-McMaster / Albert-Gamble',45.547203,-73.239243
@@ -826,7 +826,9 @@
 73988,'73988','Ozias-Leduc / Verger-Tétreault',45.533015,-73.202384
 73989,'73989','Mtée Des Trinitaires / Champagne',45.530269,-73.291868
 73990,'73990','Bella-Vista / Aréna Jean-Rougeau',45.515548,-73.292627
+73991,'73991','Richelieu / Hôtel Rive Gauche',45.591095,-73.190691
 73992,'73992','Centre De Formation Professionelle Des Patriotes',45.576026,-73.306808
+73994,'73994','André-Labadie / Boischatel',45.589757,-73.19752
 73995,'73995','Terminus Longueuil Porte 31',45.523614,-73.520874
 73996,'73996','Terminus St-Hyacinthe',45.62564,-72.945485
 73997,'73997','Robert-Bourassa / Ottawa',45.496375,-73.557905
