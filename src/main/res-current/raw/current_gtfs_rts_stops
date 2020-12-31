@@ -41,7 +41,7 @@
 73037,'73037','Cégep Édouard-Montpetit',45.536954,-73.495306
 73038,'73038','Tiffin / Devant Le Collège Charles-Lemoyne',45.514307,-73.510621
 73039,'73039','Côté / 300',45.554201,-73.19992
-73040,'73040','Tiffin / Devant Le Collège N.-D.-L.',45.515273,-73.513267
+73040,'73040','Tiffin / Devant Le Collège N-D-L',45.515273,-73.513267
 73042,'73042','Tiffin / St-Charles Ouest',45.517115,-73.519027
 73043,'73043','Patriotes Nord / Gare',45.58525,-73.188729
 73044,'73044','Patriotes Nord / Gare',45.584882,-73.188714
@@ -134,7 +134,7 @@
 73159,'73159','André-Labadie / Boischatel',45.589543,-73.197245
 73161,'73161','Bernard-Pilon / Dupré',45.554124,-73.226455
 73162,'73162','Dupré / Choquette',45.556273,-73.223382
-73163,'73163','Choquette / F.-X.-Garneau',45.557978,-73.225647
+73163,'73163','Choquette / F-X-Garneau',45.557978,-73.225647
 73164,'73164','Lévis / Yvon-L''Heureux Nord',45.571211,-73.220184
 73165,'73165','Radisson / Lévis',45.569494,-73.217284
 73166,'73166','Radisson / Boullé',45.573714,-73.210258
@@ -153,11 +153,11 @@
 73179,'73179','Constable / Normandie',45.550631,-73.227745
 73180,'73180','Constable / Mon-Loisir',45.549342,-73.230388
 73181,'73181','Constable / Tétrault',45.547992,-73.232411
-73182,'73182','W.-McMaster / Constable',45.545994,-73.237712
-73183,'73183','W.-McMaster / Place Roland-St-Pierre',45.548586,-73.238446
-73184,'73184','W.-McMaster / Camille-Chainey',45.549954,-73.240997
-73185,'73185','W.-McMaster / Place Mervin-Walter',45.549524,-73.242584
-73186,'73186','W.-McMaster / Yvon-L''Heureux Sud',45.551306,-73.245126
+73182,'73182','W-McMaster / Constable',45.545994,-73.237712
+73183,'73183','W-McMaster / Place Roland-St-Pierre',45.548586,-73.238446
+73184,'73184','W-McMaster / Camille-Chainey',45.549954,-73.240997
+73185,'73185','W-McMaster / Place Mervin-Walter',45.549524,-73.242584
+73186,'73186','W-McMaster / Yvon-L''Heureux Sud',45.551306,-73.245126
 73187,'73187','Yvon-L''Heureux Sud / Roger-Levasseur',45.552996,-73.243661
 73188,'73188','Yvon-L''Heureux Sud / Mon-Loisir',45.554936,-73.238333
 73189,'73189','Mon-Loisir / Belle-Source',45.552596,-73.235259
@@ -169,7 +169,7 @@
 73195,'73195','Richelieu / École',45.544107,-73.223292
 73196,'73196','Richelieu / Église',45.545614,-73.219001
 73197,'73197','Maple / Bretagne',45.549103,-73.223605
-73198,'73198','W.-McMaster / Albert-Gamble',45.547126,-73.239095
+73198,'73198','W-McMaster / Albert-Gamble',45.547126,-73.239095
 73199,'73199','Bernard-Pilon / Constable',45.552658,-73.224735
 73200,'73200','Bernard-Pilon / Salle',45.552576,-73.224278
 73201,'73201','Laurier / Bernard-Pilon',45.549131,-73.22024
@@ -217,8 +217,8 @@
 73247,'73247','Richelieu / Bernard-Pilon',45.546511,-73.216277
 73248,'73248','St-François / Caron',45.546317,-73.221947
 73249,'73249','Caron / École',45.545069,-73.224214
-73250,'73250','4e Av. / Devant Le #345',45.545922,-73.226561
-73251,'73251','Joffre / 2e Av.',45.544428,-73.226203
+73250,'73250','4e Av / Devant Le #345',45.545922,-73.226561
+73251,'73251','Joffre / 2e Av',45.544428,-73.226203
 73252,'73252','Richelieu / Devant Les Résidences Richeloises',45.541933,-73.22907
 73253,'73253','Richelieu / Comtois',45.546084,-73.217312
 73254,'73254','Richelieu / Choquette',45.548507,-73.212018
@@ -250,7 +250,7 @@
 73280,'73280','Serge-Pépin / Richelieu',45.592722,-73.191144
 73281,'73281','Cartier / Bonair',45.553405,-73.215601
 73282,'73282','Joffre / Richelieu',45.543485,-73.224891
-73283,'73283','W.-McMaster / Albert-Gamble',45.547203,-73.239243
+73283,'73283','W-McMaster / Albert-Gamble',45.547203,-73.239243
 73284,'73284','Dupré / Devant Le #1155 (Édifice Girard)',45.575979,-73.198101
 73285,'73285','Serge-Pépin / André-Labadie',45.592465,-73.19762
 73286,'73286','Serge-Pépin / Richelieu',45.592529,-73.191066
@@ -503,7 +503,7 @@
 73657,'73657','Sacré-Coeur Est / Grandes-Orgues',45.642211,-72.943902
 73658,'73658','Grandes-Orgues / EPSH',45.646145,-72.948443
 73659,'73659','Casavant Est / Complexe M',45.647789,-72.951465
-73660,'73660','Casavant Est / T.-D.-Bouchard',45.643645,-72.956352
+73660,'73660','Casavant Est / T-D-Bouchard',45.643645,-72.956352
 73661,'73661','Casavant Est / Pratte',45.641119,-72.958896
 73662,'73662','Pratte / Rouleau',45.639864,-72.957723
 73663,'73663','Rouleau / Gauthier',45.637052,-72.961019
@@ -518,7 +518,7 @@
 73672,'73672','Sacré-Coeur Est / Grandes-Orgues',45.642236,-72.944065
 73673,'73673','Grandes-Orgues / Devant L''EPSH',45.646057,-72.94856
 73674,'73674','Casavant Est / Complexe M',45.64748,-72.951308
-73675,'73675','Casavant Est / T.-D.-Bouchard',45.643376,-72.956136
+73675,'73675','Casavant Est / T-D-Bouchard',45.643376,-72.956136
 73676,'73676','Casavant Est / Pratte',45.640918,-72.958642
 73677,'73677','Rouleau / Pratte',45.639735,-72.957621
 73678,'73678','Gauthier / Rouleau',45.636943,-72.960878
@@ -708,7 +708,7 @@
 73863,'73863','Yvon-L''Heureux Nord / Marcotte',45.566197,-73.222954
 73864,'73864','Yvon-L''Heureux Nord / Laurendeau',45.563888,-73.22446
 73865,'73865','Yvon-L''Heureux Nord / Dumas',45.561234,-73.226495
-73866,'73866','Choquette / F.-X.-Garneau',45.557993,-73.225875
+73866,'73866','Choquette / F-X-Garneau',45.557993,-73.225875
 73867,'73867','Choquette / Dupré',45.556214,-73.223477
 73868,'73868','Dupré / Bernard-Pilon',45.554204,-73.226617
 73869,'73869','Pelletier / Poirier',45.554959,-73.229134
@@ -716,7 +716,7 @@
 73871,'73871','Poirier / Scott',45.556229,-73.23342
 73872,'73872','Poirier / William',45.553571,-73.231288
 73873,'73873','Mon-Loisir / Belle-Source',45.552599,-73.235057
-73874,'73874','W.-McMaster / Constable',45.54591,-73.237499
+73874,'73874','W-McMaster / Constable',45.54591,-73.237499
 73875,'73875','Constable / Peter',45.546684,-73.234998
 73876,'73876','Constable / Tétrault',45.547837,-73.232402
 73877,'73877','Gare McMasterville',45.546172,-73.229854
@@ -812,13 +812,13 @@
 73974,'73974','Maple / Bretagne',45.549129,-73.223829
 73975,'73975','Mon-Loisir / Yvon-L''Heureux Sud',45.554994,-73.238181
 73976,'73976','Yvon-L''Heureux Sud / Roger-Levasseur',45.553167,-73.243613
-73977,'73977','W.-McMaster / Place Roland-St-Pierre',45.548528,-73.238772
-73979,'73979','Yvon-L''Heureux Sud / W.-McMaster',45.551008,-73.244905
+73977,'73977','W-McMaster / Place Roland-St-Pierre',45.548528,-73.238772
+73979,'73979','Yvon-L''Heureux Sud / W-McMaster',45.551008,-73.244905
 73980,'73980','Millénaire / Devant Le #1097',45.518297,-73.296402
 73981,'73981','Millénaire / Devant Le #1197',45.518874,-73.297218
 73982,'73982','William / Mon-Loisir',45.551751,-73.233867
-73983,'73983','W.-McMaster / Place Aurèle-Bradley',45.549561,-73.242835
-73984,'73984','W.-McMaster / Camille-Chainey',45.549856,-73.240778
+73983,'73983','W-McMaster / Place Aurèle-Bradley',45.549561,-73.242835
+73984,'73984','W-McMaster / Camille-Chainey',45.549856,-73.240778
 73985,'73985','Gare Mont-St-Hilaire',45.577489,-73.178676
 73986,'73986','Pommeraie / Frère',45.532604,-73.177626
 73987,'73987','Verdi / Émile-Nelligan',45.530555,-73.175283
