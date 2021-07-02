@@ -120,7 +120,7 @@
 73207,'73207','Sir-Wilfrid-Laurier / Fontaine',45.555738,-73.211529
 73208,'73208','Sir-Wilfrid-Laurier / Hertel',45.556165,-73.211635
 73209,'73209','Sir-Wilfrid-Laurier / St-Laurent',45.557377,-73.210242
-73211,'73211','Sir-Wilfrid-Laurier / Mail Montenach',45.561276,-73.207305
+73211,'73211','Sir-Wilfrid-Laurier / Mail Montenach',45.561323,-73.207313
 73212,'73212','Sir-Wilfrid-Laurier / Mail Montenach',45.562456,-73.206869
 73213,'73213','Sir-Wilfrid-Laurier / #665',45.5635,-73.20547
 73214,'73214','Sir-Wilfrid-Laurier / Laurier',45.56467,-73.204632
@@ -260,7 +260,7 @@
 73445,'73445','Mason / Gervais',45.539072,-73.216667
 73446,'73446','Spiller / Ruth',45.536825,-73.215448
 73447,'73447','Spiller / Florence (Pl Mountainview)',45.533885,-73.217267
-73448,'73448','Spiller / Cigales',45.533107,-73.217525
+73448,'73448','Cigales / Spiller',45.532971,-73.217335
 73449,'73449','Cigales / Balmoral',45.531776,-73.214537
 73450,'73450','Balmoral / Bousquet',45.53385,-73.212291
 73451,'73451','Bousquet / Noyers',45.532503,-73.209382
@@ -569,7 +569,6 @@
 73863,'73863','Yvon-L''Heureux N / Marcotte',45.566197,-73.222954
 73864,'73864','Yvon-L''Heureux N / Laurendeau',45.563888,-73.22446
 73865,'73865','Yvon-L''Heureux N / Dumas',45.561234,-73.226495
-73877,'73877','Gare McMasterville',45.546172,-73.229854
 73878,'73878','Marseille / Hébert',45.527411,-73.176915
 73879,'73879','Hébert / Ringuet',45.530789,-73.180346
 73880,'73880','Hébert / Montenach',45.534185,-73.183279
