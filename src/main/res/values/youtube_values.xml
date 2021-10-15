@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources,InconsistentArrays,TypographyDashes">
-    <integer name="youtube_db_version">2</integer>
+    <integer name="youtube_db_version">3</integer>
     <string name="youtube_authority">org.mtransit.android.ca_richelieu_citvr_bus.news.youtube</string>
     <string name="youtube_target_for_poi_authority">@string/gtfs_rts_authority</string>
     <string name="youtube_color">@string/gtfs_rts_color</string>
     <string-array name="youtube_channels_username">
-        <item />
+        <item>AgenceMTransport</item>
     </string-array>
     <string-array name="youtube_channels_id">
-        <item>UCZMdMG8yuQlBY13F8W8_1WQ</item>
+        <item>UCg5vJLDYjceupbrnaEQ6GQg</item>
     </string-array>
     <string-array name="youtube_channels_uploads_playlist_id">
-        <item>UUZMdMG8yuQlBY13F8W8_1WQ</item>
+        <item>UUg5vJLDYjceupbrnaEQ6GQg</item>
     </string-array>
     <string-array name="youtube_channels_author_icon">
         <item>https://yt3.ggpht.com/ytc/AKedOLRS3W8ZZr0MYJz3gULCzwyOCgmEyY2JFrMdCBdqhg=s88-c-k-c0x00ffffff-no-rj</item>
@@ -20,7 +20,7 @@
         <item>@string/gtfs_rts_short_name</item>
     </string-array>
     <string-array name="youtube_channels_author_url">
-        <item>https://www.youtube.com/channel/UCZMdMG8yuQlBY13F8W8_1WQ</item>
+        <item>https://www.youtube.com/user/AgenceMTransport</item>
     </string-array>
     <string-array name="youtube_channels_lang">
         <item>@string/news_provider_language_unknown_show_all</item>
