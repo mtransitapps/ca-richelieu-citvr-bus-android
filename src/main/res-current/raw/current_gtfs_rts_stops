@@ -1,7 +1,9 @@
 16000,'16000','Term Mansfield Q:6',45.497972,-73.564192
+70020,'70020','Term Temp Radisson (Rue Du Trianon)',45.590456,-73.540802
 71021,'71021','Nobel / Bombardier',45.581671,-73.312429
 71022,'71022','Bombardier / Marconi',45.579287,-73.311597
 71023,'71023','Bombardier / Darwin',45.577786,-73.30819
+71320,'71320','Term Ste-Julie (Q:7)',45.582611,-73.323143
 71321,'71321','Term Ste-Julie Q:6',45.582791,-73.322973
 71332,'71332','Term Ste-Julie Q:6',45.582796,-73.322918
 73001,'73001','Sir-Wilfrid-Laurier / Millénaire',45.524677,-73.30216
@@ -37,7 +39,7 @@
 73032,'73032','Taschereau / Manseau',45.512078,-73.497859
 73033,'73033','Fayette / St-Charles O',45.520573,-73.519072
 73034,'73034','Fayette / St-Charles O',45.52073,-73.518887
-73035,'73035','Taschereau / Patenaude',45.515362,-73.509979
+73035,'73035','Taschereau / Logan',45.51486,-73.508236
 73037,'73037','Cégep Édouard-Montpetit',45.536954,-73.495306
 73038,'73038','Tiffin / Collège Charles-Lemoyne',45.514307,-73.510621
 73039,'73039','Côté / 300',45.554201,-73.19992
@@ -127,10 +129,12 @@
 73214,'73214','Sir-Wilfrid-Laurier / Laurier',45.56467,-73.204632
 73215,'73215','Sir-Wilfrid-Laurier / Lechasseur',45.559487,-73.20854
 73216,'73216','Sir-Wilfrid-Laurier / Lechasseur',45.559701,-73.208812
+73218,'73218','Stat Beloeil (Ch De L''Industrie)',45.595738,-73.195176
 73219,'73219','Laurier / Jeannotte',45.566333,-73.203864
 73220,'73220','Bernard-Pilon / Yvon-L''Heureux N',45.557316,-73.230803
 73221,'73221','Bernard-Pilon / Yvon-L''Heureux S',45.557232,-73.231087
 73222,'73222','Lechasseur / Mail Montenach (Entrée #6)',45.56274,-73.210586
+73224,'73224','CLSC Des Patriotes',45.591099,-73.199989
 73225,'73225','Lechasseur / Dupré',45.565213,-73.212556
 73226,'73226','Lechasseur / Radisson',45.569007,-73.217766
 73236,'73236','André-Labadie / Carmen-Bienvenu',45.588893,-73.19791
@@ -170,6 +174,8 @@
 73322,'73322','Sir-Wilfrid-Laurier / Rouillard',45.582269,-73.154848
 73323,'73323','Sir-Wilfrid-Laurier / Benoît',45.584146,-73.144385
 73324,'73324','Sir-Wilfrid-Laurier / Benoît',45.584505,-73.14496
+73325,'73325','Term A20 / Touraine (Boucherville)',45.570775,-73.411763
+73326,'73326','Term A20 / Mortagne (Boucherville)',45.573447,-73.443779
 73330,'73330','Radisson / Pineault',45.561498,-73.186453
 73331,'73331','Campbell / Radisson',45.559786,-73.183947
 73332,'73332','Campbell / Fortier',45.557892,-73.186739
@@ -570,6 +576,7 @@
 73863,'73863','Yvon-L''Heureux N / Marcotte',45.566197,-73.222954
 73864,'73864','Yvon-L''Heureux N / Laurendeau',45.563888,-73.22446
 73865,'73865','Yvon-L''Heureux N / Dumas',45.561234,-73.226495
+73877,'73877','Gare McMasterville Q:2',45.546172,-73.229854
 73878,'73878','Marseille / Hébert',45.527411,-73.176915
 73879,'73879','Hébert / Ringuet',45.530789,-73.180346
 73880,'73880','Hébert / Montenach',45.534185,-73.183279
