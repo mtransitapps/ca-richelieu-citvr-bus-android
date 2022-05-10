@@ -91,10 +91,10 @@
 73094,'73094','Montpellier / Bretagne',45.533535,-73.291624
 73095,'73095','Bretagne / Champagne',45.53189,-73.289312
 73096,'73096','Champagne / Mtée Des Trinitaires',45.530199,-73.292071
-73101,'73101','Laurier / Tétrault',45.54613,-73.230295
-73102,'73102','Laurier / Tétrault',45.546563,-73.230159
+73101,'73101','Sir-Wilfrid-Laurier / Tétrault',45.54613,-73.230295
+73102,'73102','Sir-Wilfrid-Laurier / Tétrault',45.546563,-73.230159
 73103,'73103','Laurier / Maple',45.548268,-73.222603
-73104,'73104','Laurier / Maple',45.548705,-73.222881
+73104,'73104','Sir-Wilfrid-Laurier / Maple',45.548705,-73.222881
 73121,'73121','Choquette / Yvon-L''Heureux N',45.559516,-73.227786
 73122,'73122','Yvon-L''Heureux N / Dumas',45.561111,-73.22641
 73123,'73123','Yvon-L''Heureux N / Goulet',45.563557,-73.224526
@@ -114,7 +114,7 @@
 73141,'73141','Louis-Marchand / Joseph-Parent',45.596985,-73.21654
 73142,'73142','Louis-Marchand / Pierre-Louis-Le Tourneux',45.601055,-73.221613
 73143,'73143','Industrie / #1633',45.594589,-73.224368
-73201,'73201','Laurier / Bernard-Pilon',45.549131,-73.22024
+73201,'73201','Sir-Wilfrid-Laurier / Bernard-Pilon',45.549131,-73.22024
 73202,'73202','Sir-Wilfrid-Laurier / Bernard-Pilon',45.549743,-73.219336
 73203,'73203','Sir-Wilfrid-Laurier / Choquette',45.550881,-73.21606
 73204,'73204','Sir-Wilfrid-Laurier / Choquette',45.551462,-73.215914
@@ -125,7 +125,7 @@
 73209,'73209','Sir-Wilfrid-Laurier / St-Laurent',45.557377,-73.210242
 73211,'73211','Sir-Wilfrid-Laurier / Mail Montenach',45.561323,-73.207313
 73212,'73212','Sir-Wilfrid-Laurier / Mail Montenach',45.562456,-73.206869
-73213,'73213','Sir-Wilfrid-Laurier / #665',45.5635,-73.20547
+73213,'73213','Sir-Wilfrid-Laurier / #665',45.563536,-73.205573
 73214,'73214','Sir-Wilfrid-Laurier / Laurier',45.56467,-73.204632
 73215,'73215','Sir-Wilfrid-Laurier / Lechasseur',45.559487,-73.20854
 73216,'73216','Sir-Wilfrid-Laurier / Lechasseur',45.559701,-73.208812
@@ -208,7 +208,7 @@
 73359,'73359','Pineault / #332',45.560061,-73.186596
 73360,'73360','Ste-Anne / Provencher',45.567676,-73.192167
 73361,'73361','Ste-Anne / St-Hippolyte',45.569152,-73.194208
-73362,'73362','Honorius-Charbonneau / Métro',45.563268,-73.189116
+73362,'73362','Honorius-Charbonneau / À Côté Du Maxi',45.563268,-73.189116
 73363,'73363','Honorius-Charbonneau / Métro',45.563365,-73.188733
 73364,'73364','Honorius-Charbonneau / Ctr-Civique',45.56464,-73.190483
 73365,'73365','Ctr-Civique / Ste-Anne',45.565443,-73.189117
@@ -255,7 +255,7 @@
 73432,'73432','Clifton / Côté',45.548275,-73.205207
 73434,'73434','Patriotes S / Pl Du Manoir',45.559382,-73.199258
 73440,'73440','Patriotes S / Pl Du Manoir',45.559555,-73.199446
-73441,'73441','Patriotes S / Prince-Edward',45.548148,-73.206001
+73441,'73441','Patriotes S / Eleanor',45.547486,-73.206412
 73442,'73442','Patriotes / Prince-Albert',45.543207,-73.214783
 73443,'73443','Patriotes / Ruth',45.540264,-73.2212
 73444,'73444','Ruth / Mason',45.537844,-73.218009
@@ -576,7 +576,7 @@
 73863,'73863','Yvon-L''Heureux N / Marcotte',45.566197,-73.222954
 73864,'73864','Yvon-L''Heureux N / Laurendeau',45.563888,-73.22446
 73865,'73865','Yvon-L''Heureux N / Dumas',45.561234,-73.226495
-73877,'73877','Gare McMasterville Q:2',45.546172,-73.229854
+73877,'73877','Gare McMasterville Q:2',45.546299,-73.229478
 73878,'73878','Marseille / Hébert',45.527411,-73.176915
 73879,'73879','Hébert / Ringuet',45.530789,-73.180346
 73880,'73880','Hébert / Montenach',45.534185,-73.183279
@@ -633,10 +633,10 @@
 73934,'73934','Mountainview / Helen',45.543043,-73.19959
 73935,'73935','Mountainview / Clifton',45.545112,-73.197737
 73936,'73936','Clifton / Copping',45.546471,-73.200428
-73937,'73937','Clifton / Côté',45.548412,-73.204536
+73937,'73937','Côté / Clifton',45.548419,-73.204489
 73939,'73939','Mtée Des Trente / Patriotes S',45.558077,-73.200125
 73940,'73940','Ste-Anne / Patriotes',45.569848,-73.195204
-73941,'73941','Gare McMasterville',45.546225,-73.229677
+73941,'73941','Gare McMasterville Q:1',45.546225,-73.229677
 73942,'73942','St-Louis / Mtée Robert',45.523682,-73.283226
 73943,'73943','Trembles / Chênes',45.522557,-73.279657
 73944,'73944','Tilleuls / Peupliers',45.524726,-73.279901
