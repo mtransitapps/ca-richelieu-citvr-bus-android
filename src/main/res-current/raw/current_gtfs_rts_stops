@@ -1,5 +1,5 @@
 16000,'16000','Term Mansfield Q:6',45.497972,-73.564192
-70020,'70020','Term Temp Radisson (Rue Du Trianon)',45.590456,-73.540802
+70020,'70020','Term Radisson S Q:3',45.589519,-73.537538
 70898,'70898','Ange-Aimé-Lebrun / Azarie-Lamer',45.5918,-73.216456
 70899,'70899','Ange-Aimé-Lebrun / Azarie-Lamer',45.591647,-73.216686
 70900,'70900','Ange-Aimé-Lebrun / Paul-Perreault',45.589499,-73.218211
@@ -18,7 +18,7 @@
 71021,'71021','Nobel / Bombardier',45.581671,-73.312429
 71022,'71022','Bombardier / Marconi',45.579287,-73.311597
 71023,'71023','Bombardier / Darwin',45.577786,-73.30819
-71320,'71320','Term Ste-Julie (Q:7)',45.582611,-73.323143
+71320,'71320','Term Ste-Julie (Q:7)',45.582633,-73.323148
 71321,'71321','Term Ste-Julie Q:6',45.582791,-73.322973
 71332,'71332','Term Ste-Julie Q:6',45.582796,-73.322918
 73001,'73001','Sir-Wilfrid-Laurier / Millénaire',45.524677,-73.30216
@@ -162,7 +162,7 @@
 73214,'73214','Sir-Wilfrid-Laurier / Laurier',45.56467,-73.204632
 73215,'73215','Sir-Wilfrid-Laurier / Lechasseur',45.559487,-73.20854
 73216,'73216','Sir-Wilfrid-Laurier / Lechasseur',45.559701,-73.208812
-73218,'73218','Stat Beloeil (Ch De L''Industrie)',45.595738,-73.195176
+73218,'73218','Stat Beloeil (Ch De L''Industrie)',45.595698,-73.195184
 73219,'73219','Laurier / Jeannotte',45.566333,-73.203864
 73220,'73220','Bernard-Pilon / Yvon-L''Heureux N',45.557316,-73.230803
 73221,'73221','Bernard-Pilon / Yvon-L''Heureux S',45.557232,-73.231087
@@ -208,8 +208,8 @@
 73322,'73322','Sir-Wilfrid-Laurier / Rouillard',45.582269,-73.154848
 73323,'73323','Sir-Wilfrid-Laurier / Benoît',45.584146,-73.144385
 73324,'73324','Sir-Wilfrid-Laurier / Benoît',45.584505,-73.14496
-73325,'73325','Term A20 / Touraine (Boucherville)',45.570775,-73.411763
-73326,'73326','Term A20 / Mortagne (Boucherville)',45.573447,-73.443779
+73325,'73325','Term A20 / Touraine (Boucherville)',45.570771,-73.411845
+73326,'73326','Term A20 / Mortagne (Boucherville)',45.5734,-73.443813
 73330,'73330','Radisson / Pineault',45.561498,-73.186453
 73331,'73331','Campbell / Radisson',45.559786,-73.183947
 73332,'73332','Campbell / Fortier',45.557892,-73.186739
@@ -351,7 +351,6 @@
 73516,'73516','Laurier / Petit Rang',45.588368,-73.127005
 73587,'73587','Daniel-Johnson E / Casavant E',45.646711,-72.952877
 73588,'73588','Daniel-Johnson E / Casavant E',45.646451,-72.952975
-73589,'73589','Martineau / Marché Aux Puces',45.648895,-72.952228
 73590,'73590','Sicotte / St-Jacques',45.620533,-72.961644
 73591,'73591','Choquette / #3450',45.632635,-72.979522
 73592,'73592','Choquette / #6300',45.630251,-72.986782
@@ -426,7 +425,6 @@
 73662,'73662','Pratte / Rouleau',45.639864,-72.957723
 73663,'73663','Rouleau / Gauthier',45.637052,-72.961019
 73664,'73664','Gauthier / Lamarche',45.634448,-72.960892
-73665,'73665','Rapide-Plat N / Martineau',45.652233,-72.943556
 73666,'73666','Girouard O / Kéroack',45.631151,-72.94287
 73667,'73667','Pratte / CSSS Richelieu-Yamaska',45.633478,-72.944937
 73668,'73668','Pratte / Papineau',45.634738,-72.947511
@@ -539,8 +537,6 @@
 73775,'73775','Laframboise / Nelson',45.631457,-72.954979
 73776,'73776','Laframboise / Morison',45.629421,-72.950942
 73777,'73777','Sicotte / Ste-Anne',45.627047,-72.949777
-73778,'73778','Sacré-Coeur O / Laframboise',45.631452,-72.954347
-73779,'73779','Beauparlant / Viger',45.633043,-72.953999
 73780,'73780','Ste-Anne / Morison',45.628454,-72.952506
 73781,'73781','Papineau / Bourdages N',45.627783,-72.955527
 73782,'73782','Bourdages N / Nelson',45.629354,-72.957703
