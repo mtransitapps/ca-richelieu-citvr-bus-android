@@ -14,15 +14,6 @@
 2600,0,'Champagne / Trinitaires',26
 2601,0,'Gare St-Basile-Le-Grand',26
 3000,0,'St-Hyacinthe',30
-5001,0,'Ctr-Ville<>Galeries',50
-5100,0,'St-Joseph',51
-5201,0,'Douville',52
-5300,0,'Assomption / Ste-Rosalie',53
-5401,0,'St-Sacrement O',54
-5501,0,'St-Thomas',55
-5601,0,'Providence',56
-5700,0,'Sacré-Coeur',57
-6001,0,'Galeries<>Cégep',60
 20001,0,'Longueuil',200
 20000,0,'St-Hyacinthe',200
 20101,0,'Longueuil',201
@@ -45,7 +36,5 @@
 2000002601,0,'Gare St-Basile-Le-Grand',20000026
 2000003000,0,'McMasterville<>Ste-Julie',20000030
 2000003001,0,'Ste-Julie<>McMasterville',20000030
-2000006100,0,'Parc Les Salines',20000061
-2000006201,0,'Galeries / Parc Ind',20000062
 2000008001,0,'Beloeil',20000080
 2000008000,0,'Industrie',20000080
