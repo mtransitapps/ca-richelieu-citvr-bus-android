@@ -1,5 +1,7 @@
 16000,'16000','Term Mansfield Q:6',45.497972,-73.564192
+70018,'70018','Term Radisson S (Débarcadère)',45.590042,-73.538625
 70020,'70020','Term Radisson S Q:3',45.589539,-73.537585
+70155,'70155','Tellier / (Face À SAQ)',45.58631,-73.521611
 70898,'70898','Ange-Aimé-Lebrun / Azarie-Lamer',45.5918,-73.216456
 70899,'70899','Ange-Aimé-Lebrun / Azarie-Lamer',45.591647,-73.216686
 70900,'70900','Ange-Aimé-Lebrun / Paul-Perreault',45.589499,-73.218211
@@ -110,7 +112,7 @@
 73098,'73098','Bernard-Pilon / Cartier',45.549799,-73.220771
 73101,'73101','Sir-Wilfrid-Laurier / Tétrault',45.54613,-73.230295
 73102,'73102','Sir-Wilfrid-Laurier / Tétrault',45.546563,-73.230159
-73103,'73103','Laurier / Maple',45.548268,-73.222603
+73103,'73103','Laurier / Maple',45.54839,-73.222679
 73104,'73104','Sir-Wilfrid-Laurier / Maple',45.548705,-73.222881
 73105,'73105','Gare McMasterville Q:3',45.546373,-73.229247
 73121,'73121','Choquette / Yvon-L''Heureux N',45.559516,-73.227786
@@ -127,6 +129,7 @@
 73132,'73132','Vinet / Bourgeois',45.577782,-73.204413
 73133,'73133','Vinet / Riviera',45.581324,-73.202286
 73134,'73134','Larose / Vinet',45.582775,-73.201582
+73136,'73136','Serge-Pépin / André-Labadie',45.592385,-73.198221
 73139,'73139','Industrie / Forges',45.595031,-73.202896
 73140,'73140','Industrie / #1085',45.594688,-73.211206
 73141,'73141','Louis-Marchand / Joseph-Parent',45.596985,-73.21654
@@ -162,6 +165,7 @@
 73214,'73214','Sir-Wilfrid-Laurier / Laurier',45.56467,-73.204632
 73215,'73215','Sir-Wilfrid-Laurier / Lechasseur',45.559487,-73.20854
 73216,'73216','Sir-Wilfrid-Laurier / Lechasseur',45.559701,-73.208812
+73217,'73217','P+R Beloeil (Q:2)',45.595718,-73.19537
 73218,'73218','Stat Beloeil (Ch De L''Industrie)',45.595699,-73.19519
 73219,'73219','Laurier / Jeannotte',45.566333,-73.203864
 73220,'73220','Bernard-Pilon / Yvon-L''Heureux N',45.557316,-73.230803
