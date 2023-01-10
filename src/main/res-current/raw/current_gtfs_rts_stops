@@ -13,9 +13,6 @@
 70909,'70909','Henri-Bourassa / Bosquet',45.583042,-73.212491
 70926,'70926','Lapointe / St-Jean-Baptiste',45.578218,-73.21227
 70937,'70937','Ange-Aimé-Lebrun',45.590695,-73.212423
-71004,'71004','Darwin / Bombardier',45.57789,-73.308185
-71005,'71005','Bombardier / Marconi',45.579405,-73.311552
-71006,'71006','Bombardier / Nobel',45.581465,-73.3122
 71014,'71014','Chambly / St-Charles',45.541135,-73.508609
 71021,'71021','Nobel / Bombardier',45.581671,-73.312429
 71022,'71022','Bombardier / Marconi',45.579287,-73.311597
@@ -27,6 +24,7 @@
 73002,'73002','Sir-Wilfrid-Laurier / Millénaire',45.524986,-73.30233
 73003,'73003','Sir-Wilfrid-Laurier / Jean-Charles-Michaud',45.526661,-73.295331
 73004,'73004','Sir-Wilfrid-Laurier / Jean-Charles-Michaud',45.526893,-73.295996
+73005,'73005','Sir Wilfrid-Laurier / Gare St-Basile',45.523124,-73.307139
 73006,'73006','Sir-Wilfrid-Laurier / Lafrance O',45.527832,-73.292826
 73007,'73007','Sir-Wilfrid-Laurier / Mtée Robert',45.528564,-73.289245
 73008,'73008','Sir-Wilfrid-Laurier / Mtée Des Trinitaires',45.528709,-73.28979
@@ -114,6 +112,7 @@
 73103,'73103','Laurier / Maple',45.54839,-73.222679
 73104,'73104','Sir-Wilfrid-Laurier / Maple',45.548705,-73.222881
 73105,'73105','Gare McMasterville Q:3',45.546373,-73.229247
+73120,'73120','P+R Beloeil Q:Taxi',45.595578,-73.195318
 73121,'73121','Choquette / Yvon-L''Heureux N',45.559516,-73.227786
 73122,'73122','Yvon-L''Heureux N / Dumas',45.561111,-73.22641
 73123,'73123','Yvon-L''Heureux N / Goulet',45.563557,-73.224526
@@ -164,7 +163,6 @@
 73214,'73214','Sir-Wilfrid-Laurier / Laurier',45.56467,-73.204632
 73215,'73215','Sir-Wilfrid-Laurier / Lechasseur',45.559487,-73.20854
 73216,'73216','Sir-Wilfrid-Laurier / Lechasseur',45.559701,-73.208812
-73217,'73217','P+R Beloeil Q:2',45.595718,-73.19537
 73218,'73218','Stat Beloeil (Ch De L''Industrie)',45.595699,-73.19519
 73219,'73219','Laurier / Jeannotte',45.566333,-73.203864
 73220,'73220','Bernard-Pilon / Yvon-L''Heureux N',45.557316,-73.230803
