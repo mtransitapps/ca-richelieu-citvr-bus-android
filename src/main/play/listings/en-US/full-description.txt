@@ -1,6 +1,6 @@
 This application adds exo Vallée du Richelieu buses information to MonTransit.
 
-This app contains the buses schedule and the latest news from exo.quebec, @allo_exo and @exo_Sud on Twitter.
+This app provides the planned schedule as well as real time service statuses and the latest news from exo.quebec, @allo_exo and @exo_Sud on Twitter.
 
 exo Vallée du Richelieu serves Belœil, McMasterville, Mont-Saint-Hilaire, Otterburn Park, Saint-Basile-le-Grand, Saint-Hyacinthe, Sainte-Madeleine and Sainte-Marie-Madeleine in Québec, Canada.
 
@@ -22,4 +22,4 @@ exo Vallée du Richelieu was formerly known as RTM Vallée du Richelieu sector a
 exo was formerly known as Réseau de Transport Métropolitain (RTM) and Agence Métropolitaine de Transport (AMT).
 
 Permissions:
-- Other: required to read news from exo.quebec and Twitter.
+- Other: required for real-time service statuses and to read news from exo.quebec and Twitter
