@@ -4,7 +4,7 @@
 2100,0,'Gare St-Hilaire',21
 2101,0,'Pommeraie',21
 2200,0,'Gare St-Hilaire',22
-2201,0,'Village',22
+2201,0,'Patriotes / Campbell',22
 2301,0,'Gare McMasterville',23
 2300,0,'Otterburn Park',23
 2400,0,'Bella-Vista / Mtée Robert',24
@@ -13,7 +13,7 @@
 2501,0,'St-Hyacinthe',25
 2600,0,'Champagne / Trinitaires',26
 2601,0,'Gare St-Basile-Le-Grand',26
-3000,0,'St-Hyacinthe',30
+3000,0,'St-Hyacinthe / Ste-Julie',30
 20001,0,'Longueuil',200
 20000,0,'St-Hyacinthe',200
 20101,0,'Longueuil',201
@@ -24,8 +24,9 @@
 52001,0,'Term Radisson',520
 2002000,0,'Beloeil',20020
 2002001,0,'Gare McMasterville',20020
+20001200,0,'Otterburn Park',200012
 2000002200,0,'Gare St-Hilaire',20000022
-2000002201,0,'Village',20000022
+2000002201,0,'Patriotes / Campbell',20000022
 2000002301,0,'Gare McMasterville',20000023
 2000002300,0,'Otterburn Park',20000023
 2000002400,0,'Bella-Vista / Mtée Robert',20000024
