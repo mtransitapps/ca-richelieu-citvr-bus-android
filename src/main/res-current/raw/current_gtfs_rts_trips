@@ -1,5 +1,3 @@
-1100,0,'Sect De La Pommeraie',11
-1101,0,'Village De La Gare',11
 1200,0,'Otterburn Park',12
 2100,0,'Gare St-Hilaire',21
 2101,0,'Pommeraie',21
@@ -24,7 +22,8 @@
 52001,0,'Term Radisson',520
 2002000,0,'Beloeil',20020
 2002001,0,'Gare McMasterville',20020
-20001200,0,'Otterburn Park',200012
+2000001100,0,'Sect De La Pommeraie',20000011
+2000001101,0,'Village De La Gare',20000011
 2000002200,0,'Gare St-Hilaire',20000022
 2000002201,0,'Patriotes / Campbell',20000022
 2000002301,0,'Gare McMasterville',20000023

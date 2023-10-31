@@ -1,7 +1,7 @@
 70018,'70018','Term Radisson S (Débarcadère)',45.590051,-73.538626,0
 70020,'70020','Term Radisson S Q:3',45.589548,-73.537587,0
 70155,'70155','Tellier / SAQ',45.58596,-73.521741,1
-70156,'70156','A25 / Sherbrooke',45.594299,-73.537161,1
+70156,'70156','A25 / Sherbrooke',45.594229,-73.537048,1
 70898,'70898','Ange-Aimé-Lebrun / Azarie-Lamer',45.591809,-73.216458,0
 70899,'70899','Ange-Aimé-Lebrun / Azarie-Lamer',45.591656,-73.216687,0
 70900,'70900','Ange-Aimé-Lebrun / Paul-Perreault',45.589508,-73.218212,0
@@ -17,9 +17,9 @@
 71021,'71021','Nobel / Bombardier',45.58168,-73.31243,0
 71022,'71022','Bombardier / Marconi',45.579296,-73.311598,0
 71023,'71023','Bombardier / Darwin',45.577795,-73.308191,0
-71320,'71320','Term Ste-Julie Q:7',45.582785,-73.323181,0
-71321,'71321','Term Ste-Julie Q:6',45.5828,-73.322974,0
-71332,'71332','Term Ste-Julie Q:6',45.582805,-73.322919,0
+71320,'71320','Term Ste-Julie Q:7',45.582613,-73.323128,0
+71321,'71321','Term Ste-Julie Q:6',45.582664,-73.322926,0
+71332,'71332','Term Ste-Julie Q:6',45.582687,-73.322858,0
 73001,'73001','Sir-Wilfrid-Laurier / Millénaire',45.524686,-73.302161,0
 73002,'73002','Sir-Wilfrid-Laurier / Millénaire',45.524995,-73.302331,0
 73003,'73003','Sir-Wilfrid-Laurier / Jean-Charles-Michaud',45.52667,-73.295332,0
@@ -112,7 +112,7 @@
 73103,'73103','Laurier / Maple',45.548399,-73.222681,0
 73104,'73104','Sir-Wilfrid-Laurier / Maple',45.548715,-73.222883,0
 73105,'73105','Gare McMasterville Q:3',45.546382,-73.229249,0
-73120,'73120','P+R Beloeil Q:Taxi',45.595587,-73.195319,0
+73120,'73120','P+R Beloeil Q:Taxi',45.595485,-73.194563,0
 73121,'73121','Choquette / Yvon-L''Heureux N',45.559526,-73.227788,0
 73122,'73122','Yvon-L''Heureux N / Dumas',45.56112,-73.226412,0
 73123,'73123','Yvon-L''Heureux N / Goulet',45.563567,-73.224527,0
@@ -163,7 +163,7 @@
 73214,'73214','Sir-Wilfrid-Laurier / Laurier',45.564679,-73.204633,0
 73215,'73215','Sir-Wilfrid-Laurier / Lechasseur',45.559496,-73.208541,0
 73216,'73216','Sir-Wilfrid-Laurier / Lechasseur',45.55971,-73.208814,0
-73218,'73218','Stat Beloeil (Ch De L''Industrie)',45.595708,-73.195192,0
+73218,'73218','Stat Beloeil (Ch De L''Industrie)',45.595577,-73.194911,0
 73219,'73219','Laurier / Jeannotte',45.566343,-73.203865,0
 73220,'73220','Bernard-Pilon / Yvon-L''Heureux N',45.557325,-73.230804,0
 73221,'73221','Bernard-Pilon / Yvon-L''Heureux S',45.557241,-73.231089,0
@@ -171,7 +171,7 @@
 73225,'73225','Lechasseur / Dupré',45.565092,-73.212418,0
 73226,'73226','Lechasseur / Radisson',45.569016,-73.217768,0
 73227,'73227','Radisson / Pigeon',45.57179,-73.213641,0
-73236,'73236','André-Labadie / Carmen-Bienvenu',45.588902,-73.197912,0
+73236,'73236','André-Labadie / Carmen-Bienvenu',45.588933,-73.197865,0
 73237,'73237','St-Jean-Baptiste / Radisson',45.574549,-73.20768,0
 73238,'73238','St-Jean-Baptiste / Dupré',45.571739,-73.203519,0
 73241,'73241','Laurier / Brunelle',45.564742,-73.20506,0
@@ -212,7 +212,7 @@
 73329,'73329','Pratte / Sacré-Cœur O',45.63586,-72.94997,0
 73330,'73330','Radisson / Pineault',45.561507,-73.186454,0
 73331,'73331','Campbell / Radisson',45.559795,-73.183948,0
-73332,'73332','Campbell / Fortier',45.557901,-73.18674,0
+73332,'73332','Campbell / Fortier',45.557939,-73.186689,0
 73333,'73333','Ozias-Leduc / Paul-Émile-Borduas',45.549065,-73.185613,0
 73334,'73334','Ozias-Leduc / Mgne',45.542204,-73.187413,0
 73335,'73335','Félix-Leclerc / Lauzon',45.539064,-73.186285,0
@@ -422,7 +422,7 @@
 73847,'73847','Adrien-Provencher / Jean-Luc-Beaulé',45.589676,-73.208958,0
 73848,'73848','Adrien-Provencher / Maurice-Auclair',45.589278,-73.205708,0
 73850,'73850','Carmen-Bienvenu / #118',45.589628,-73.200168,0
-73851,'73851','Carmen-Bienvenu / André-Labadie',45.588759,-73.198097,0
+73851,'73851','Carmen-Bienvenu / André-Labadie',45.588854,-73.198219,0
 73852,'73852','André-Labadie / Gagnon',45.587094,-73.200241,0
 73854,'73854','André-Labadie / Larose',45.584391,-73.204288,0
 73855,'73855','Larose / Vinet',45.582878,-73.201722,0
@@ -469,7 +469,7 @@
 73909,'73909','Rouville / Messier',45.563911,-73.196273,0
 73910,'73910','Patriotes N / Gaboury',45.567613,-73.196381,0
 73911,'73911','Patriotes N / Ste-Anne',45.569911,-73.195185,0
-73912,'73912','Patriotes N / Desrochers',45.574821,-73.192461,0
+73912,'73912','Patriotes N / Desrochers',45.574858,-73.192424,0
 73913,'73913','Patriotes N / Beaujeu',45.576505,-73.191614,0
 73914,'73914','Patriotes N / Armand-Halde',45.579519,-73.190151,0
 73915,'73915','Patriotes N / Rocque',45.58685,-73.18797,0
