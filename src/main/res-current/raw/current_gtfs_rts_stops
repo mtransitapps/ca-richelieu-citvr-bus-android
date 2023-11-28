@@ -19,6 +19,7 @@
 71023,'71023','Bombardier / Darwin',45.577795,-73.308191,0
 71320,'71320','Term Ste-Julie Q:7',45.582613,-73.323128,0
 71321,'71321','Term Ste-Julie Q:6',45.582664,-73.322926,0
+71328,'71328','Term Ste-Julie Q:Taxi',45.582338,-73.322841,0
 71332,'71332','Term Ste-Julie Q:6',45.582687,-73.322858,0
 73001,'73001','Sir-Wilfrid-Laurier / Millénaire',45.524686,-73.302161,0
 73002,'73002','Sir-Wilfrid-Laurier / Millénaire',45.524995,-73.302331,0
@@ -89,7 +90,7 @@
 73078,'73078','Trembles / Chênes',45.522692,-73.279694,0
 73079,'73079','St-Louis / Mtée Robert',45.523785,-73.283083,0
 73080,'73080','Rang Des Vingt / Millénaire',45.527545,-73.306109,0
-73081,'73081','Rang Des Vingt / Taillon O',45.531319,-73.303379,0
+73081,'73081','Rang Des Vingt / Taillon O',45.531282,-73.303393,0
 73082,'73082','Taillon O / Bresse',45.528682,-73.299579,0
 73083,'73083','Bresse / Belainsky',45.529559,-73.29819,0
 73084,'73084','Belainsky / Lafrance O',45.530824,-73.2976,0
@@ -401,7 +402,7 @@
 73822,'73822','Millénaire / Sir-Wilfrid-Laurier',45.525018,-73.302462,0
 73823,'73823','Millénaire / Sir-Wilfrid-Laurier',45.52535,-73.30313,0
 73824,'73824','Rang Des Vingt / Millénaire',45.52761,-73.306186,0
-73825,'73825','Taillon O / Rang Des Vingt',45.531374,-73.303321,0
+73825,'73825','Taillon O / Rang Des Vingt',45.531369,-73.303272,0
 73826,'73826','Bresse / Taillon O',45.528723,-73.299507,0
 73827,'73827','Belainsky / Bresse',45.529608,-73.298238,0
 73828,'73828','Lafrance O / Belainsky',45.530865,-73.297543,0
@@ -449,7 +450,7 @@
 73886,'73886','Ozias-Leduc / Félix-Leclerc',45.540561,-73.188351,0
 73887,'73887','Ozias-Leduc / Mgne',45.54201,-73.187381,0
 73888,'73888','Ozias-Leduc / Paul-Émile-Borduas',45.549017,-73.185358,0
-73889,'73889','Ozias-Leduc / Ernest-Choquette',45.552943,-73.18333,0
+73889,'73889','Ozias-Leduc / Ernest-Choquette',45.552769,-73.183226,0
 73890,'73890','Verdi / Renoir',45.529443,-73.176925,0
 73891,'73891','Fortier / Campbell',45.557816,-73.186601,0
 73892,'73892','Fortier / Charlevoix',45.560837,-73.190672,0
@@ -533,7 +534,7 @@
 73988,'73988','Ozias-Leduc / Verger-Tétreault',45.533112,-73.202232,0
 73989,'73989','Mtée Des Trinitaires / Champagne',45.530278,-73.291869,0
 73990,'73990','Bella-Vista / Aréna Jean-Rougeau',45.515557,-73.292629,0
-73992,'73992','Ctr De Formation Pro Des Patriotes',45.576035,-73.306809,0
+73992,'73992','Ctr De Formation Pro Des Patriotes',45.575732,-73.306924,0
 73995,'73995','Term Longueuil P:31',45.523623,-73.520875,0
 73996,'73996','Term St-Hyacinthe',45.625649,-72.945486,0
 74182,'74182','Chambly / St-Charles',45.540968,-73.508575,0
