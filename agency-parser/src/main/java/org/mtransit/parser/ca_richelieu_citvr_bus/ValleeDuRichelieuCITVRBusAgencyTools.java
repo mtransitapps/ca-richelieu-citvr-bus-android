@@ -157,7 +157,7 @@ public class ValleeDuRichelieuCITVRBusAgencyTools extends DefaultAgencyTools {
 		if (FeatureFlags.F_USE_GTFS_ID_HASH_INT) {
 			return super.getStopCode(gStop);
 		}
-		//noinspection deprecation
+		//noinspection DiscouragedApi
 		return gStop.getStopId(); // used by GTFS-RT
 	}
 
@@ -182,10 +182,10 @@ public class ValleeDuRichelieuCITVRBusAgencyTools extends DefaultAgencyTools {
 	@Override
 	public int getStopId(@NotNull GStop gStop) {
 		final String stopCode = getStopCode(gStop);
-		if (stopCode.length() > 0 && CharUtils.isDigitsOnly(stopCode)) {
+		if (!stopCode.isEmpty() && CharUtils.isDigitsOnly(stopCode)) {
 			return Integer.parseInt(stopCode); // using stop code as stop ID
 		}
-		//noinspection deprecation
+		//noinspection DiscouragedApi
 		final String stop_id = CleanUtils.cleanMergedID(gStop.getStopId()).toUpperCase(Locale.ENGLISH);
 		final Matcher matcher = DIGITS.matcher(stop_id);
 		if (matcher.find()) {
