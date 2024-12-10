@@ -12,7 +12,7 @@
 20000,0,'St-Hyacinthe',200
 20101,0,'Longueuil',201
 20100,0,'St-Hilaire',201
-30000,0,'St-Hyacinthe',300
+30000,0,'St-Hilaire / St-Hyacinthe',300
 30001,0,'Term Brossard',300
 52000,0,'Ste-Julie / Beloeil',520
 52001,0,'Term Radisson',520
@@ -24,7 +24,7 @@
 2000002401,0,'Gare St-Basile-Le-Grand',20000024
 2000002600,0,'Champagne / Trinitaires',20000026
 2000002601,0,'Gare St-Basile-Le-Grand',20000026
-2000003001,0,'Beloeil',20000030
+2000003001,0,'Beloeil / Ste-Julie',20000030
 2000003000,0,'Ste-Julie',20000030
 2000008001,0,'Beloeil',20000080
 2000008000,0,'Industrie',20000080
