@@ -23,7 +23,7 @@
     </string-array>
     <string-array name="rss_feeds_author_url">
         <item>https://exo.quebec/fr/service-clientele/avis</item>
-        <item>https://exo.quebec/fr/actualites/nouvelles-evenements</item>
+        <item>https://exo.quebec/fr/actualites</item>
         <item>https://exo.quebec/fr/a-propos/medias-publications/communiques-presse</item>
     </string-array>
     <string-array name="rss_feeds_label">
