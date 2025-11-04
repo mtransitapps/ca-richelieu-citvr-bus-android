@@ -69,15 +69,6 @@ public class ValleeDuRichelieuCITVRBusAgencyTools extends DefaultAgencyTools {
 		return true;
 	}
 
-	@NotNull
-	@Override
-	public String getRouteShortName(@NotNull GRoute gRoute) {
-		if (FeatureFlags.F_USE_GTFS_ID_HASH_INT) {
-			return super.getRouteShortName(gRoute);
-		}
-		return gRoute.getRouteShortName(); // used by GTFS-RT
-	}
-
 	@Override
 	public boolean defaultRouteLongNameEnabled() {
 		return true;
@@ -154,11 +145,7 @@ public class ValleeDuRichelieuCITVRBusAgencyTools extends DefaultAgencyTools {
 		if ("0".equals(gStop.getStopCode())) {
 			return EMPTY;
 		}
-		if (FeatureFlags.F_USE_GTFS_ID_HASH_INT) {
-			return super.getStopCode(gStop);
-		}
-		//noinspection DiscouragedApi
-		return gStop.getStopId(); // used by GTFS-RT
+		return super.getStopCode(gStop);
 	}
 
 	private static final String A = "A";
