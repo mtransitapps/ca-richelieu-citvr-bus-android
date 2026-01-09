@@ -8,7 +8,6 @@ import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
 import org.mtransit.commons.CharUtils;
 import org.mtransit.commons.CleanUtils;
-import org.mtransit.commons.FeatureFlags;
 import org.mtransit.commons.RegexUtils;
 import org.mtransit.commons.StringUtils;
 import org.mtransit.parser.DefaultAgencyTools;
@@ -33,11 +32,6 @@ public class ValleeDuRichelieuCITVRBusAgencyTools extends DefaultAgencyTools {
 	@Override
 	public List<Locale> getSupportedLanguages() {
 		return LANG_FR;
-	}
-
-	@Override
-	public boolean defaultExcludeEnabled() {
-		return true;
 	}
 
 	@NotNull
@@ -98,6 +92,12 @@ public class ValleeDuRichelieuCITVRBusAgencyTools extends DefaultAgencyTools {
 
 	private static final Pattern _DASH_ = Pattern.compile("( - )");
 	private static final String _DASH_REPLACEMENT = "<>"; // form<>to
+
+	@Override
+	public @NotNull String cleanDirectionHeadsign(@Nullable GRoute gRoute, int directionId, boolean fromStopName, @NotNull String directionHeadSign) {
+		directionHeadSign = CleanUtils.removeVia(directionHeadSign);
+		return super.cleanDirectionHeadsign(gRoute, directionId, fromStopName, directionHeadSign);
+	}
 
 	@NotNull
 	@Override
