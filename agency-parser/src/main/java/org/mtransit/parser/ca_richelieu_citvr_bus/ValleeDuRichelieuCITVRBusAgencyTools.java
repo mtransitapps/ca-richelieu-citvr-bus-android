@@ -48,7 +48,9 @@ public class ValleeDuRichelieuCITVRBusAgencyTools extends DefaultAgencyTools {
 
 	@Override
 	public @Nullable String getTripIdCleanupRegex() {
-		return "VR\\-\\w{1}\\d{2}\\-VR_GTFS\\-"; // remove trip ID shared by all trip IDs (include season letter and YY year)
+		// return "VR\\-\\w{1}\\d{2}\\-VR_GTFS\\-"; // remove trip ID shared by all trip IDs (include season letter and YY year)
+		// 13112683-VR-H26-VR_GTFS-Semaine-02 -> 13112683-Semaine-
+		return "VR-\\w{1}\\d{2}-VR_GTFS\\-|-\\d+(-\\d+)?$"; // remove beginning of trip ID shared by all trip IDs (include season letter and YY year)
 	}
 
 	@Override
