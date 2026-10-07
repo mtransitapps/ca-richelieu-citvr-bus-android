@@ -1,0 +1,59 @@
+{
+    "default_route_id_enabled": true,
+    "use_route_short_name_for_route_id": true,
+    "route_short_name_cleaners": [
+        {
+            "regex": "(^t(-))",
+            "ignore_case": true,
+            "replacement": "T"
+        }
+    ],
+    "default_route_long_name_enabled": true,
+    "direction_finder_enabled": true,
+    "trip_id_cleanup_regex_old": "VR\\-\\w{1}\\d{2}\\-VR_GTFS\\-",
+    "trip_id_cleanup_regex": "VR-\\w{1}\\d{2}-VR_GTFS\\-|-\\d+(-\\d+)?$",
+    "trip_id_cleanup_regex_comment": "remove trip ID shared by all trip IDs (include season letter and YY year)",
+    "trip_headsign_remove_via": true,
+    "trip_headsign_cleaners": [
+        {
+            "regex": "express",
+            "ignore_case": true,
+            "is_word": true
+        },
+        {
+            "regex": "( - )",
+            "replacement": "<>",
+            "comment": "save 1 ' ' character"
+        },
+        {
+            "regex": "devant",
+            "ignore_case": true,
+            "is_word": true
+        },
+        {
+            "regex": "(mont-saint-|mont-st-)",
+            "ignore_case": true,
+            "replacement": "St-",
+            "comment": "replace Mont-Saint- or Mont-St- with St-"
+        },
+        {
+            "regex": "(service local)",
+            "ignore_case": true,
+            "comment": "remove 'service local'"
+        }
+    ],
+    "stop_name_cleaners": [
+        {
+            "regex": "( - )",
+            "replacement": " ",
+            "comment": "save 2 characters"
+        },
+        {
+            "regex": "devant",
+            "ignore_case": true,
+            "is_word": true
+        }
+    ],
+    "use_stop_id_for_stop_code": true,
+    "use_stop_code_for_stop_id": true
+}
