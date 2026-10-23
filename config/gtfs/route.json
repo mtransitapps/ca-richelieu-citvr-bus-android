@@ -10,8 +10,8 @@
     ],
     "default_route_long_name_enabled": true,
     "direction_finder_enabled": true,
-    "trip_id_cleanup_regex_old": "VR\\-\\w{1}\\d{2}\\-VR_GTFS\\-",
-    "trip_id_cleanup_regex": "VR-\\w{1}\\d{2}-VR_GTFS\\-|-\\d+(-\\d+)?$",
+    "trip_id_cleanup_regex": "VR\\-\\w{1}\\d{2}\\-VR_GTFS\\-",
+    "trip_id_cleanup_regex_old": "VR-\\w{1}\\d{2}-VR_GTFS\\-|-\\d+(-\\d+)?$",
     "trip_id_cleanup_regex_comment": "remove trip ID shared by all trip IDs (include season letter and YY year)",
     "trip_headsign_remove_via": true,
     "trip_headsign_cleaners": [
